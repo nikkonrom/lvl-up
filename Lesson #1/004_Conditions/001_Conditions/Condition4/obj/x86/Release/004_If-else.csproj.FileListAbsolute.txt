@@ -1,0 +1,5 @@
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition4\bin\Release\Condition4.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition4\bin\Release\Condition4.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition4\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition4\obj\x86\Release\Condition4.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition4\obj\x86\Release\Condition4.pdb

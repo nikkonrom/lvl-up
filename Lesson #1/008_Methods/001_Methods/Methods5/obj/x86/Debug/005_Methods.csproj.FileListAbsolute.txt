@@ -1,0 +1,19 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods21\obj\x86\Debug\Methods21.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods21\obj\x86\Debug\Methods21.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods5\obj\x86\Debug\Methods21.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods5\obj\x86\Debug\Methods21.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods5\bin\Debug\Methods21.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods5\bin\Debug\Methods21.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods5\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods5\obj\x86\Debug\Methods21.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods5\obj\x86\Debug\Methods21.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods5\bin\Debug\Methods21.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods5\bin\Debug\Methods21.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\008_Methods\001_Methods\Methods5\obj\x86\Debug\Methods21.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\008_Methods\001_Methods\Methods5\obj\x86\Debug\Methods21.pdb
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods5\bin\Debug\Methods21.exe
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods5\bin\Debug\Methods21.pdb
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods5\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods5\obj\x86\Debug\Methods21.exe
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods5\obj\x86\Debug\Methods21.pdb

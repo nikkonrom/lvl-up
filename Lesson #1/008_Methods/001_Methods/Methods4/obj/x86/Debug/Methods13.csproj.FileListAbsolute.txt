@@ -1,0 +1,5 @@
+D:\Methods\Methods13\bin\Debug\Methods13.exe
+D:\Methods\Methods13\bin\Debug\Methods13.pdb
+D:\Methods\Methods13\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Methods\Methods13\obj\x86\Debug\Methods13.exe
+D:\Methods\Methods13\obj\x86\Debug\Methods13.pdb

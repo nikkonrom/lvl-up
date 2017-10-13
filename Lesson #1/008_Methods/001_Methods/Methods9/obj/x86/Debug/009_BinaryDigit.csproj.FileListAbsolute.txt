@@ -1,0 +1,22 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\BinaryDigit\bin\Debug\BinaryDigit.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\BinaryDigit\bin\Debug\BinaryDigit.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\BinaryDigit\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\BinaryDigit\obj\x86\Debug\BinaryDigit.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\BinaryDigit\obj\x86\Debug\BinaryDigit.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\BinaryDigit\obj\x86\Debug\BinaryDigit.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\BinaryDigit\obj\x86\Debug\BinaryDigit.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\BinaryDigit\bin\Debug\BinaryDigit.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\BinaryDigit\bin\Debug\BinaryDigit.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\BinaryDigit\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods9\bin\Debug\BinaryDigit.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods9\bin\Debug\BinaryDigit.pdb
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods9\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods9\obj\x86\Debug\BinaryDigit.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods9\obj\x86\Debug\BinaryDigit.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\008_Methods\001_Methods\Methods9\obj\x86\Debug\BinaryDigit.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\008_Methods\001_Methods\Methods9\obj\x86\Debug\BinaryDigit.pdb
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods9\bin\Debug\BinaryDigit.exe
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods9\bin\Debug\BinaryDigit.pdb
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods9\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods9\obj\x86\Debug\BinaryDigit.exe
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods9\obj\x86\Debug\BinaryDigit.pdb

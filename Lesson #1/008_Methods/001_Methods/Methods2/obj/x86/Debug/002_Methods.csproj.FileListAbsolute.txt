@@ -1,0 +1,12 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods12\obj\x86\Debug\Methods12.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods12\obj\x86\Debug\Methods12.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods2\obj\x86\Debug\Methods12.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods2\obj\x86\Debug\Methods12.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods2\bin\Debug\Methods12.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods2\bin\Debug\Methods12.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods2\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods2\obj\x86\Debug\Methods12.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods2\obj\x86\Debug\Methods12.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods2\bin\Debug\Methods12.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods2\bin\Debug\Methods12.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods2\obj\x86\Debug\ResolveAssemblyReference.cache

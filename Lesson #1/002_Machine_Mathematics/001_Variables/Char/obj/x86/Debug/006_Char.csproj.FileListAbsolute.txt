@@ -1,0 +1,12 @@
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Char\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Char\bin\Debug\Char.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Char\bin\Debug\Char.pdb
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Char\obj\x86\Debug\Char.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Char\obj\x86\Debug\Char.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Char\obj\x86\Debug\Char.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Char\obj\x86\Debug\Char.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Char\obj\x86\Debug\Char.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Char\obj\x86\Debug\Char.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Char\bin\Debug\Char.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Char\bin\Debug\Char.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Char\obj\x86\Debug\006_Char.csprojResolveAssemblyReference.cache

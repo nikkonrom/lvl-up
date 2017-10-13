@@ -1,0 +1,5 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods22\bin\Debug\Methods22.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods22\bin\Debug\Methods22.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods22\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods22\obj\x86\Debug\Methods22.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods22\obj\x86\Debug\Methods22.pdb

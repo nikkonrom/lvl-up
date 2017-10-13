@@ -1,0 +1,5 @@
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 5\Addition task\bin\Release\Addition task.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 5\Addition task\bin\Release\Addition task.pdb
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 5\Addition task\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 5\Addition task\obj\x86\Release\Addition task.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 5\Addition task\obj\x86\Release\Addition task.pdb

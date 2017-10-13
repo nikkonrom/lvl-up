@@ -1,0 +1,47 @@
+D:\TypeBasics\TypeBasics\bin\Debug\TypeBasics.exe
+D:\TypeBasics\TypeBasics\bin\Debug\TypeBasics.pdb
+D:\TypeBasics\TypeBasics\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TypeBasics\TypeBasics\obj\x86\Debug\TypeBasics.exe
+D:\TypeBasics\TypeBasics\obj\x86\Debug\TypeBasics.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\Lesson\TypeBasics\obj\x86\Debug\TypeBasics.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\Lesson\TypeBasics\obj\x86\Debug\TypeBasics.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\001_Samples\TypeBasics\obj\x86\Debug\TypeBasics.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\001_Samples\TypeBasics\obj\x86\Debug\TypeBasics.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\TypeBasics\obj\x86\Debug\TypeBasics.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\TypeBasics\obj\x86\Debug\TypeBasics.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\TypeBasics\bin\Debug\TypeBasics.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\TypeBasics\bin\Debug\TypeBasics.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\TypeBasics\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\TypeBasics\bin\Debug\TypeBasics.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\TypeBasics\bin\Debug\TypeBasics.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\TypeBasics\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\TypeBasics\bin\Debug\TypeBasics.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\TypeBasics\bin\Debug\TypeBasics.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\TypeBasics\obj\x86\Debug\ResolveAssemblyReference.cache
+g:\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.exe
+g:\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.pdb
+H:\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.exe
+H:\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\TypeBasics\bin\Debug\TypeBasics.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\TypeBasics\bin\Debug\TypeBasics.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\TypeBasics\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\TypeBasics\bin\Debug\TypeBasics.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\TypeBasics\bin\Debug\TypeBasics.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\TypeBasics\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\TypeBasics\bin\Debug\TypeBasics.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\TypeBasics\bin\Debug\TypeBasics.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\TypeBasics\obj\x86\Debug\001_TypeBasics.csprojResolveAssemblyReference.cache

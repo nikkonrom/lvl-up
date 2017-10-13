@@ -1,0 +1,18 @@
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 8\Task 4\bin\Debug\Task 4.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 8\Task 4\bin\Debug\Task 4.pdb
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 8\Task 4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 8\Task 4\obj\x86\Debug\Task_4.Form1.resources
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 8\Task 4\obj\x86\Debug\Task_4.Properties.Resources.resources
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 8\Task 4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 8\Task 4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 8\Task 4\obj\x86\Debug\Task 4.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 8\Task 4\obj\x86\Debug\Task 4.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 8\Task 4\obj\x86\Debug\Task 4.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 8\Task 4\obj\x86\Debug\Task 4.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 8\Task 4\bin\Debug\Task 4.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 8\Task 4\bin\Debug\Task 4.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 8\Task 4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 8\Task 4\obj\x86\Debug\Task_4.Form1.resources
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 8\Task 4\obj\x86\Debug\Task_4.Properties.Resources.resources
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 8\Task 4\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 8\Task 4\obj\x86\Debug\GenerateResource.write.1.tlog

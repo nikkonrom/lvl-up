@@ -1,0 +1,29 @@
+D:\TypeBasics\Concatenation\bin\Debug\Concatenation.exe
+D:\TypeBasics\Concatenation\bin\Debug\Concatenation.pdb
+D:\TypeBasics\Concatenation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TypeBasics\Concatenation\obj\x86\Debug\Concatenation.exe
+D:\TypeBasics\Concatenation\obj\x86\Debug\Concatenation.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\001_Samples\Concatenation\obj\x86\Debug\Concatenation.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\001_Samples\Concatenation\obj\x86\Debug\Concatenation.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Concatenation\bin\Debug\Concatenation.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Concatenation\bin\Debug\Concatenation.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Concatenation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Concatenation\obj\x86\Debug\Concatenation.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Concatenation\obj\x86\Debug\Concatenation.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Concatenation\bin\Debug\Concatenation.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Concatenation\bin\Debug\Concatenation.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Concatenation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Concatenation\obj\x86\Debug\Concatenation.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Concatenation\obj\x86\Debug\Concatenation.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Concatenation\bin\Debug\Concatenation.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Concatenation\bin\Debug\Concatenation.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Concatenation\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Concatenation\obj\x86\Debug\Concatenation.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Concatenation\obj\x86\Debug\Concatenation.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Concatenation\bin\Debug\Concatenation.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Concatenation\bin\Debug\Concatenation.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Concatenation\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Concatenation\obj\x86\Debug\Concatenation.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Concatenation\obj\x86\Debug\Concatenation.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Concatenation\obj\x86\Debug\Concatenation.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Concatenation\obj\x86\Debug\Concatenation.pdb

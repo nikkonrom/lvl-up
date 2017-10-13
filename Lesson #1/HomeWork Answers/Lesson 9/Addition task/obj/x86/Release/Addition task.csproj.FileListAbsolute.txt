@@ -1,0 +1,10 @@
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 9\bin\Release\Lessons 9.exe
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 9\bin\Release\Lessons 9.pdb
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 9\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 9\obj\x86\Release\Lessons 9.exe
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 9\obj\x86\Release\Lessons 9.pdb
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 9 _доделать\Addition task\bin\Release\Addition task.exe
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 9 _доделать\Addition task\bin\Release\Addition task.pdb
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 9 _доделать\Addition task\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 9 _доделать\Addition task\obj\x86\Release\Addition task.exe
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 9 _доделать\Addition task\obj\x86\Release\Addition task.pdb

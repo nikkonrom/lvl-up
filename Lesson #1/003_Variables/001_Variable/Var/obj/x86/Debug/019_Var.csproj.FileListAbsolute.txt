@@ -1,0 +1,5 @@
+D:\TypeBasics\Var\bin\Debug\Var.exe
+D:\TypeBasics\Var\bin\Debug\Var.pdb
+D:\TypeBasics\Var\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TypeBasics\Var\obj\x86\Debug\Var.exe
+D:\TypeBasics\Var\obj\x86\Debug\Var.pdb

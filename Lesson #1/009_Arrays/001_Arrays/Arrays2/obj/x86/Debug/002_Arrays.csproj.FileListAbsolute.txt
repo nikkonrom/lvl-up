@@ -1,0 +1,17 @@
+D:\Arrays\Arrays2\bin\Debug\Arrays2.exe
+D:\Arrays\Arrays2\bin\Debug\Arrays2.pdb
+D:\Arrays\Arrays2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Arrays\Arrays2\obj\x86\Debug\Arrays2.exe
+D:\Arrays\Arrays2\obj\x86\Debug\Arrays2.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\008_Arrays\001_Arrays\Arrays2\obj\x86\Debug\Arrays2.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\008_Arrays\001_Arrays\Arrays2\obj\x86\Debug\Arrays2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\009_Arrays\001_Arrays\Arrays2\obj\x86\Debug\Arrays2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\009_Arrays\001_Arrays\Arrays2\obj\x86\Debug\Arrays2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\009_Arrays\001_Arrays\Arrays2\bin\Debug\Arrays2.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\009_Arrays\001_Arrays\Arrays2\bin\Debug\Arrays2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\009_Arrays\001_Arrays\Arrays2\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays2\obj\x86\Debug\Arrays2.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays2\obj\x86\Debug\Arrays2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays2\bin\Debug\Arrays2.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays2\bin\Debug\Arrays2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays2\obj\x86\Debug\ResolveAssemblyReference.cache

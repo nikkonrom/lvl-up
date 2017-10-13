@@ -1,0 +1,29 @@
+D:\TypeBasics\LocalVariables\bin\Debug\LocalVariables.exe
+D:\TypeBasics\LocalVariables\bin\Debug\LocalVariables.pdb
+D:\TypeBasics\LocalVariables\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TypeBasics\LocalVariables\obj\x86\Debug\LocalVariables.exe
+D:\TypeBasics\LocalVariables\obj\x86\Debug\LocalVariables.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\001_Samples\LocalVariables\obj\x86\Debug\LocalVariables.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\001_Samples\LocalVariables\obj\x86\Debug\LocalVariables.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\LocalVariables\bin\Debug\LocalVariables.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\LocalVariables\bin\Debug\LocalVariables.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\LocalVariables\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\LocalVariables\obj\x86\Debug\LocalVariables.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\LocalVariables\obj\x86\Debug\LocalVariables.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\LocalVariables\obj\x86\Debug\LocalVariables.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\LocalVariables\obj\x86\Debug\LocalVariables.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\LocalVariables\bin\Debug\LocalVariables.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\LocalVariables\bin\Debug\LocalVariables.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\LocalVariables\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\LocalVariables\bin\Debug\LocalVariables.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\LocalVariables\bin\Debug\LocalVariables.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\LocalVariables\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\LocalVariables\obj\x86\Debug\LocalVariables.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\LocalVariables\obj\x86\Debug\LocalVariables.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\LocalVariables\bin\Debug\LocalVariables.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\LocalVariables\bin\Debug\LocalVariables.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\LocalVariables\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\LocalVariables\obj\x86\Debug\LocalVariables.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\LocalVariables\obj\x86\Debug\LocalVariables.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\LocalVariables\obj\x86\Debug\LocalVariables.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\LocalVariables\obj\x86\Debug\LocalVariables.pdb

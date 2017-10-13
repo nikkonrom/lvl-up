@@ -1,0 +1,5 @@
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\bin\Release\DeMorganTheorems.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\bin\Release\DeMorganTheorems.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\obj\x86\Release\DeMorganTheorems.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\obj\x86\Release\DeMorganTheorems.pdb

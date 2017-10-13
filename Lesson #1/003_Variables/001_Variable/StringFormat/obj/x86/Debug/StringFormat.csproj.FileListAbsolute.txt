@@ -1,0 +1,5 @@
+D:\TypeBasics\StringFormat\bin\Debug\StringFormat.exe
+D:\TypeBasics\StringFormat\bin\Debug\StringFormat.pdb
+D:\TypeBasics\StringFormat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TypeBasics\StringFormat\obj\x86\Debug\StringFormat.exe
+D:\TypeBasics\StringFormat\obj\x86\Debug\StringFormat.pdb

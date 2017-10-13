@@ -1,0 +1,66 @@
+D:\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+D:\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+D:\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+D:\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+D:\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+D:\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+D:\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+D:\CBS LESSONS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+D:\CBS LESSONS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\001_INTRODUCTION\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\ResGen.write.1.tlog
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\ResolveAssemblyReference.cache
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\ResGen.read.1.tlog
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\ResGen.write.1.tlog
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\ResGen.read.1.tlog
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\ResGen.write.1.tlog
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\ResGen.read.1.tlog
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\ResGen.write.1.tlog
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\002_WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods9\obj\x86\Debug\Methods9.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods9\obj\x86\Debug\Methods9.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods7\obj\x86\Debug\Methods9.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods7\obj\x86\Debug\Methods9.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods7\bin\Debug\Methods9.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods7\bin\Debug\Methods9.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods7\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods7\obj\x86\Debug\Methods9.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods7\obj\x86\Debug\Methods9.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods7\bin\Debug\Methods9.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods7\bin\Debug\Methods9.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods7\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\008_Methods\001_Methods\Methods7\obj\x86\Debug\Methods9.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\008_Methods\001_Methods\Methods7\obj\x86\Debug\Methods9.pdb
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods7\bin\Debug\Methods9.exe
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods7\bin\Debug\Methods9.pdb
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods7\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods7\obj\x86\Debug\Methods9.exe
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods7\obj\x86\Debug\Methods9.pdb
+H:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods7\obj\x86\Debug\Methods9.exe
+H:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods7\obj\x86\Debug\Methods9.pdb

@@ -1,0 +1,28 @@
+D:\Logic\Logic3\bin\Debug\Logic3.exe
+D:\Logic\Logic3\bin\Debug\Logic3.pdb
+D:\Logic\Logic3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Logic\Logic3\obj\x86\Debug\Logic3.exe
+D:\Logic\Logic3\obj\x86\Debug\Logic3.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_CONDITION\002_Logic\Logic3\obj\x86\Debug\Logic3.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_CONDITION\002_Logic\Logic3\obj\x86\Debug\Logic3.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\Logic3\obj\x86\Debug\Logic3.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\Logic3\obj\x86\Debug\Logic3.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic3\bin\Debug\Logic3.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic3\bin\Debug\Logic3.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic3\obj\x86\Debug\Logic3.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic3\obj\x86\Debug\Logic3.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic3\obj\x86\Debug\Logic3.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic3\obj\x86\Debug\Logic3.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic3\bin\Debug\Logic3.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic3\bin\Debug\Logic3.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic3\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\Logic3\obj\x86\Debug\Logic3.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\Logic3\obj\x86\Debug\Logic3.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\Logic3\bin\Debug\Logic3.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\Logic3\bin\Debug\Logic3.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\Logic3\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\Logic3\obj\x86\Debug\Logic3.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\Logic3\obj\x86\Debug\Logic3.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\Logic3\bin\Debug\Logic3.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\Logic3\bin\Debug\Logic3.pdb

@@ -1,0 +1,5 @@
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\BinaryDigit\bin\Debug\BinaryDigit.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\BinaryDigit\bin\Debug\BinaryDigit.pdb
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\BinaryDigit\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\BinaryDigit\obj\x86\Debug\BinaryDigit.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\BinaryDigit\obj\x86\Debug\BinaryDigit.pdb

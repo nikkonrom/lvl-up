@@ -1,0 +1,22 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\MethodsRecFact\bin\Debug\MethodsRecFact.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\MethodsRecFact\bin\Debug\MethodsRecFact.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\MethodsRecFact\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\MethodsRecFact\obj\x86\Debug\MethodsRecFact.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\MethodsRecFact\obj\x86\Debug\MethodsRecFact.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\MethodsRecFact\obj\x86\Debug\MethodsRecFact.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\MethodsRecFact\obj\x86\Debug\MethodsRecFact.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\MethodsRecFact\bin\Debug\MethodsRecFact.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\MethodsRecFact\bin\Debug\MethodsRecFact.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\MethodsRecFact\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods11\bin\Debug\MethodsRecFact.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods11\bin\Debug\MethodsRecFact.pdb
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods11\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods11\obj\x86\Debug\MethodsRecFact.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods11\obj\x86\Debug\MethodsRecFact.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\008_Methods\001_Methods\Methods11\obj\x86\Debug\MethodsRecFact.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\008_Methods\001_Methods\Methods11\obj\x86\Debug\MethodsRecFact.pdb
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods11\obj\x86\Debug\MethodsRecFact.exe
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods11\obj\x86\Debug\MethodsRecFact.pdb
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods11\bin\Debug\MethodsRecFact.exe
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods11\bin\Debug\MethodsRecFact.pdb
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods11\obj\x86\Debug\ResolveAssemblyReference.cache

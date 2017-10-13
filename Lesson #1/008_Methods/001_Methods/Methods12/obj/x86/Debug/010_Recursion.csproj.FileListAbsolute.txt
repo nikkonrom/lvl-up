@@ -1,0 +1,9 @@
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods12\obj\x86\Debug\Recursion3.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods12\obj\x86\Debug\Recursion3.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\008_Methods\001_Methods\Methods12\obj\x86\Debug\Recursion3.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\008_Methods\001_Methods\Methods12\obj\x86\Debug\Recursion3.pdb
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods12\bin\Debug\Recursion3.exe
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods12\bin\Debug\Recursion3.pdb
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods12\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods12\obj\x86\Debug\Recursion3.exe
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods12\obj\x86\Debug\Recursion3.pdb

@@ -1,0 +1,28 @@
+D:\TypeBasics\Var\obj\x86\Debug\Var.exe
+D:\TypeBasics\Var\obj\x86\Debug\Var.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\Lesson\Var\obj\x86\Debug\Var.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\Lesson\Var\obj\x86\Debug\Var.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\001_Samples\Var\obj\x86\Debug\Var.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\001_Samples\Var\obj\x86\Debug\Var.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Var\bin\Debug\Var.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Var\bin\Debug\Var.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Var\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Var\obj\x86\Debug\Var.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Var\obj\x86\Debug\Var.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Var\obj\x86\Debug\Var.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Var\obj\x86\Debug\Var.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Var\bin\Debug\Var.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Var\bin\Debug\Var.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Var\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Var\bin\Debug\Var.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Var\bin\Debug\Var.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Var\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Var\obj\x86\Debug\Var.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Var\obj\x86\Debug\Var.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Var\bin\Debug\Var.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Var\bin\Debug\Var.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Var\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Var\obj\x86\Debug\Var.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Var\obj\x86\Debug\Var.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Var\obj\x86\Debug\Var.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Var\obj\x86\Debug\Var.pdb

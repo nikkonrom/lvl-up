@@ -1,0 +1,45 @@
+D:\MY BOOKS\NAU\000_INTRODUCTION\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\MY BOOKS\NAU\000_INTRODUCTION\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\MY BOOKS\NAU\000_INTRODUCTION\ConsoleApplication\ConsoleApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\MY BOOKS\NAU\000_INTRODUCTION\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\MY BOOKS\NAU\000_INTRODUCTION\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\CBS LESSONS\CBS_CS_Essential\001\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\CBS LESSONS\CBS_CS_Essential\001\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\CBS LESSONS\CBS_CS_Essential\001\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\CBS LESSONS\CBS_CS_Essential\001\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\CBS LESSONS\CBS_CS_Essential\001\ConsoleApplication\ConsoleApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS LESSONS\CBS_CS_Essential\001_INTRODUCTION\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\CBS LESSONS\CBS_CS_Essential\001_INTRODUCTION\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\001_ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\001_ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\001_ConsoleApplication\ConsoleApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\001_INTRODUCTION\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\001_INTRODUCTION\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\001_INTRODUCTION\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\001_INTRODUCTION\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\001_INTRODUCTION\001_ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\001_INTRODUCTION\001_ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\001_INTRODUCTION\001_ConsoleApplication\ConsoleApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Andrey\C# Essential\C# Essential\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\Andrey\C# Essential\C# Essential\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+E:\proga\video lessons\c#\[ITVDN] C# Стартовый - 2013\Materials\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+E:\proga\video lessons\c#\[ITVDN] C# Стартовый - 2013\Materials\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+E:\proga\video lessons\c#\[ITVDN] C# Стартовый - 2013\Materials\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+E:\proga\video lessons\c#\[ITVDN] C# Стартовый - 2013\Materials\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+E:\proga\video lessons\c#\[ITVDN] C# Стартовый - 2013\Materials\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+E:\proga\video lessons\c#\[ITVDN] C# Стартовый - 2013\Materials\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

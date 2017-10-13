@@ -1,0 +1,17 @@
+D:\Methods\Methods12\bin\Debug\Methods12.exe
+D:\Methods\Methods12\bin\Debug\Methods12.pdb
+D:\Methods\Methods12\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Methods\Methods12\obj\x86\Debug\Methods12.exe
+D:\Methods\Methods12\obj\x86\Debug\Methods12.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods12\obj\x86\Debug\Methods12.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods12\obj\x86\Debug\Methods12.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods12\bin\Debug\Methods12.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods12\bin\Debug\Methods12.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods12\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods12\obj\x86\Debug\Methods12.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods12\obj\x86\Debug\Methods12.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods12\bin\Debug\Methods12.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods12\bin\Debug\Methods12.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods12\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods12\obj\x86\Debug\Methods12.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods12\obj\x86\Debug\Methods12.pdb

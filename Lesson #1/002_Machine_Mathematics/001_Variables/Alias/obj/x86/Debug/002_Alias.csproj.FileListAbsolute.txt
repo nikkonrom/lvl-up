@@ -1,0 +1,44 @@
+D:\TypeBasics\Alias\bin\Debug\Alias.exe
+D:\TypeBasics\Alias\bin\Debug\Alias.pdb
+D:\TypeBasics\Alias\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TypeBasics\Alias\obj\x86\Debug\Alias.exe
+D:\TypeBasics\Alias\obj\x86\Debug\Alias.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\Lesson\Alias\obj\x86\Debug\Alias.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\Lesson\Alias\obj\x86\Debug\Alias.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\001_Samples\Alias\obj\x86\Debug\Alias.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\001_Samples\Alias\obj\x86\Debug\Alias.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Alias\obj\x86\Debug\Alias.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Alias\obj\x86\Debug\Alias.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Alias\bin\Debug\Alias.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Alias\bin\Debug\Alias.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Alias\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Alias\bin\Debug\Alias.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Alias\bin\Debug\Alias.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Alias\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Alias\obj\x86\Debug\Alias.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Alias\obj\x86\Debug\Alias.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Alias\obj\x86\Debug\Alias.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Alias\obj\x86\Debug\Alias.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Alias\bin\Debug\Alias.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Alias\bin\Debug\Alias.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Alias\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Alias\obj\x86\Debug\Alias.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Alias\obj\x86\Debug\Alias.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Alias\bin\Debug\Alias.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Alias\bin\Debug\Alias.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Alias\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Alias\obj\x86\Debug\Alias.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Alias\obj\x86\Debug\Alias.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Alias\bin\Debug\Alias.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Alias\bin\Debug\Alias.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Alias\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Alias\obj\x86\Debug\Alias.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Alias\obj\x86\Debug\Alias.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Alias\bin\Debug\Alias.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Alias\bin\Debug\Alias.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Alias\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Alias\obj\x86\Debug\Alias.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Alias\obj\x86\Debug\Alias.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Alias\bin\Debug\Alias.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Alias\bin\Debug\Alias.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\Alias\obj\x86\Debug\002_Alias.csprojResolveAssemblyReference.cache

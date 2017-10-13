@@ -1,0 +1,17 @@
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 9\bin\Debug\Lessons 9.exe
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 9\bin\Debug\Lessons 9.pdb
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 9\obj\x86\Debug\Lessons 9.exe
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 9\obj\x86\Debug\Lessons 9.pdb
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 9\Addition task\bin\Debug\Addition task.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 9\Addition task\bin\Debug\Addition task.pdb
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 9\Addition task\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 9\Addition task\obj\x86\Debug\Addition task.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 9\Addition task\obj\x86\Debug\Addition task.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 9\Addition task\obj\x86\Debug\Addition task.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 9\Addition task\obj\x86\Debug\Addition task.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 9\Addition task\bin\Debug\Addition task.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 9\Addition task\bin\Debug\Addition task.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 9\Addition task\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 9 _доделать\Addition task\obj\x86\Debug\Addition task.exe
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 9 _доделать\Addition task\obj\x86\Debug\Addition task.pdb

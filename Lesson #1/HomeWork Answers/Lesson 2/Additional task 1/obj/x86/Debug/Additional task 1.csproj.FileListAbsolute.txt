@@ -1,0 +1,18 @@
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 2\Lessons 2\bin\Debug\Lessons 2.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 2\Lessons 2\bin\Debug\Lessons 2.pdb
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 2\Lessons 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 2\Lessons 2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 2\Lessons 2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 2\Lessons 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 2\Lessons 2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 2\Lessons 2\obj\x86\Debug\Lessons 2.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 2\Lessons 2\obj\x86\Debug\Lessons 2.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 2\Additional task 1\bin\Debug\Additional task 1.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 2\Additional task 1\bin\Debug\Additional task 1.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 2\Additional task 1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 2\Additional task 1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 2\Additional task 1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 2\Additional task 1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 2\Additional task 1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 2\Additional task 1\obj\x86\Debug\Additional task 1.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 2\Additional task 1\obj\x86\Debug\Additional task 1.pdb

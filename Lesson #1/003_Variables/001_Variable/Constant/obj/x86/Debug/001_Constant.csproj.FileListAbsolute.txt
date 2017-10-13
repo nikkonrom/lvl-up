@@ -1,0 +1,22 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Constant\obj\x86\Debug\Constant.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Constant\obj\x86\Debug\Constant.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Constant\obj\x86\Debug\Constant.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Constant\obj\x86\Debug\Constant.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Constant\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Constant\bin\Debug\Constant.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Constant\bin\Debug\Constant.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Constant\obj\x86\Debug\Constant.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Constant\obj\x86\Debug\Constant.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Constant\bin\Debug\Constant.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Constant\bin\Debug\Constant.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Constant\obj\x86\Debug\Constant.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Constant\obj\x86\Debug\Constant.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Constant\bin\Debug\Constant.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Constant\bin\Debug\Constant.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Constant\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Constant\obj\x86\Debug\Constant.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Constant\obj\x86\Debug\Constant.pdb
+H:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Constant\obj\x86\Debug\Constant.exe
+H:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Constant\obj\x86\Debug\Constant.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Constant\obj\x86\Debug\Constant.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Constant\obj\x86\Debug\Constant.pdb

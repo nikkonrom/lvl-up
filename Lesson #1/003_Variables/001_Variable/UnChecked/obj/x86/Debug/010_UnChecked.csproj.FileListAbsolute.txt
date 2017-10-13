@@ -1,0 +1,15 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\UnChecked\obj\x86\Debug\UnChecked.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\UnChecked\obj\x86\Debug\UnChecked.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\UnChecked\obj\x86\Debug\UnChecked.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\UnChecked\obj\x86\Debug\UnChecked.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\UnChecked\bin\Debug\UnChecked.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\UnChecked\bin\Debug\UnChecked.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\UnChecked\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\UnChecked\bin\Debug\UnChecked.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\UnChecked\bin\Debug\UnChecked.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.pdb

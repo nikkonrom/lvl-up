@@ -1,0 +1,2 @@
+F:\C# Starter\CS_Starter_RU\009_Arrays\001_Arrays\Arrays12\obj\x86\Debug\Arrays12.exe
+F:\C# Starter\CS_Starter_RU\009_Arrays\001_Arrays\Arrays12\obj\x86\Debug\Arrays12.pdb

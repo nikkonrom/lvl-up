@@ -1,0 +1,31 @@
+D:\TypeBasics\Arithmetic\bin\Debug\Arithmetic.exe
+D:\TypeBasics\Arithmetic\bin\Debug\Arithmetic.pdb
+D:\TypeBasics\Arithmetic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TypeBasics\Arithmetic\obj\x86\Debug\Arithmetic.exe
+D:\TypeBasics\Arithmetic\obj\x86\Debug\Arithmetic.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\001_Samples\Arithmetic\obj\x86\Debug\Arithmetic.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\001_Samples\Arithmetic\obj\x86\Debug\Arithmetic.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Arithmetic\bin\Debug\Arithmetic.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Arithmetic\bin\Debug\Arithmetic.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Arithmetic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Arithmetic\obj\x86\Debug\Arithmetic.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\Arithmetic\obj\x86\Debug\Arithmetic.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Arithmetic\bin\Debug\Arithmetic.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Arithmetic\bin\Debug\Arithmetic.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Arithmetic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Arithmetic\obj\x86\Debug\Arithmetic.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Arithmetic\obj\x86\Debug\Arithmetic.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Arithmetic\bin\Debug\Arithmetic.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Arithmetic\bin\Debug\Arithmetic.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Arithmetic\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Arithmetic\obj\x86\Debug\Arithmetic.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\Arithmetic\obj\x86\Debug\Arithmetic.pdb
+g:\001_Variables\Arithmetic\obj\x86\Debug\Arithmetic.exe
+g:\001_Variables\Arithmetic\obj\x86\Debug\Arithmetic.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Arithmetic\bin\Debug\Arithmetic.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Arithmetic\bin\Debug\Arithmetic.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Arithmetic\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Arithmetic\obj\x86\Debug\Arithmetic.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\Arithmetic\obj\x86\Debug\Arithmetic.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Arithmetic\obj\x86\Debug\Arithmetic.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Arithmetic\obj\x86\Debug\Arithmetic.pdb

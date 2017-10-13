@@ -1,0 +1,23 @@
+D:\Loop\Loop12\bin\Debug\Loop12.exe
+D:\Loop\Loop12\bin\Debug\Loop12.pdb
+D:\Loop\Loop12\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Loop\Loop12\obj\x86\Debug\Loop12.exe
+D:\Loop\Loop12\obj\x86\Debug\Loop12.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop12\obj\x86\Debug\Loop12.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop12\obj\x86\Debug\Loop12.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop12\bin\Debug\Loop12.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop12\bin\Debug\Loop12.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop12\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop12\bin\Debug\Loop12.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop12\bin\Debug\Loop12.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop12\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop12\obj\x86\Debug\Loop12.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop12\obj\x86\Debug\Loop12.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\006_Loops\001_Loops\Loop12\obj\x86\Debug\Loop12.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\006_Loops\001_Loops\Loop12\obj\x86\Debug\Loop12.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\006_Loops\001_Loops\Loop12\bin\Debug\Loop12.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\006_Loops\001_Loops\Loop12\bin\Debug\Loop12.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\006_Loops\001_Loops\Loop12\obj\x86\Debug\Loop12.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\006_Loops\001_Loops\Loop12\obj\x86\Debug\Loop12.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\006_Loops\001_Loops\Loop12\obj\x86\Debug\Loop12.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\006_Loops\001_Loops\Loop12\obj\x86\Debug\Loop12.pdb

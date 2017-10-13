@@ -1,0 +1,10 @@
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Assignment\bin\Debug\Assignment.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Assignment\bin\Debug\Assignment.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Assignment\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Assignment\bin\Debug\Assignment.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Assignment\bin\Debug\Assignment.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Assignment\obj\x86\Debug\008_Assignment.csprojResolveAssemblyReference.cache

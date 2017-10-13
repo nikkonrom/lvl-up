@@ -1,0 +1,10 @@
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 5\Task 3\bin\Debug\Task 3.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 5\Task 3\bin\Debug\Task 3.pdb
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 5\Task 3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 5\Task 3\obj\x86\Debug\Task 3.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 5\Task 3\obj\x86\Debug\Task 3.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 5\Task 3\bin\Debug\Task 3.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 5\Task 3\bin\Debug\Task 3.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 5\Task 3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 5\Task 3\obj\x86\Debug\Task 3.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 5\Task 3\obj\x86\Debug\Task 3.pdb

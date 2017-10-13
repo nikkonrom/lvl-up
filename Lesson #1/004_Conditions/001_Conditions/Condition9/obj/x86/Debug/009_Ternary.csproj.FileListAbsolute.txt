@@ -1,0 +1,5 @@
+D:\Condition\Condition9\obj\x86\Debug\Condition9.exe
+D:\Condition\Condition9\obj\x86\Debug\Condition9.pdb
+D:\Condition\Condition9\bin\Debug\Condition9.exe
+D:\Condition\Condition9\bin\Debug\Condition9.pdb
+D:\Condition\Condition9\obj\x86\Debug\ResolveAssemblyReference.cache

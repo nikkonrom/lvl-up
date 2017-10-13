@@ -1,0 +1,16 @@
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 6\Task 1\bin\Debug\Task 1.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 6\Task 1\bin\Debug\Task 1.pdb
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 6\Task 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 6\Task 1\obj\x86\Debug\Task 1.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 6\Task 1\obj\x86\Debug\Task 1.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 6\Task 1\obj\x86\Debug\Task 1.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 6\Task 1\obj\x86\Debug\Task 1.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 6\Task 1\bin\Debug\Task 1.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 6\Task 1\bin\Debug\Task 1.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 6\Task 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 6 _доделать\Task 1\obj\x86\Debug\Task 1.exe
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 6 _доделать\Task 1\obj\x86\Debug\Task 1.pdb
+C:\Users\Alex\Desktop\CS_Starter_RU\HomeWork Answers\Lesson 6\Task 1\bin\Debug\Task 1.exe
+C:\Users\Alex\Desktop\CS_Starter_RU\HomeWork Answers\Lesson 6\Task 1\bin\Debug\Task 1.pdb
+C:\Users\Alex\Desktop\CS_Starter_RU\HomeWork Answers\Lesson 6\Task 1\obj\x86\Debug\Task 1.exe
+C:\Users\Alex\Desktop\CS_Starter_RU\HomeWork Answers\Lesson 6\Task 1\obj\x86\Debug\Task 1.pdb

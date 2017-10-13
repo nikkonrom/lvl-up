@@ -1,0 +1,5 @@
+D:\Logic\Logic3\bin\Debug\Logic3.exe
+D:\Logic\Logic3\bin\Debug\Logic3.pdb
+D:\Logic\Logic3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Logic\Logic3\obj\x86\Debug\Logic3.exe
+D:\Logic\Logic3\obj\x86\Debug\Logic3.pdb

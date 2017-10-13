@@ -1,0 +1,11 @@
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\FloatDoubleDecimal\bin\Debug\FloatDoubleDecimal.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\FloatDoubleDecimal\bin\Debug\FloatDoubleDecimal.pdb
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\FloatDoubleDecimal\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\FloatDoubleDecimal\obj\x86\Debug\FloatDoubleDecimal.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\FloatDoubleDecimal\obj\x86\Debug\FloatDoubleDecimal.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\FloatDoubleDecimal\obj\x86\Debug\FloatDoubleDecimal.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\FloatDoubleDecimal\obj\x86\Debug\FloatDoubleDecimal.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\FloatDoubleDecimal\obj\x86\Debug\FloatDoubleDecimal.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\FloatDoubleDecimal\obj\x86\Debug\FloatDoubleDecimal.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\FloatDoubleDecimal\bin\Debug\FloatDoubleDecimal.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\FloatDoubleDecimal\bin\Debug\FloatDoubleDecimal.pdb

@@ -1,0 +1,5 @@
+D:\Arrays\Arrays14\bin\Debug\Arrays14.exe
+D:\Arrays\Arrays14\bin\Debug\Arrays14.pdb
+D:\Arrays\Arrays14\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Arrays\Arrays14\obj\x86\Debug\Arrays14.exe
+D:\Arrays\Arrays14\obj\x86\Debug\Arrays14.pdb

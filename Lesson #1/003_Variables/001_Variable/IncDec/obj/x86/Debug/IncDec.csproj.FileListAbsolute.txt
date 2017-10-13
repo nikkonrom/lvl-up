@@ -1,0 +1,5 @@
+D:\TypeBasics\IncDec\bin\Debug\IncDec.exe
+D:\TypeBasics\IncDec\bin\Debug\IncDec.pdb
+D:\TypeBasics\IncDec\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TypeBasics\IncDec\obj\x86\Debug\IncDec.exe
+D:\TypeBasics\IncDec\obj\x86\Debug\IncDec.pdb

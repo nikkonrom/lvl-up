@@ -1,0 +1,13 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Assignment\obj\x86\Debug\Assignment.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Assignment\obj\x86\Debug\Assignment.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Assignment\bin\Debug\Assignment.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Assignment\bin\Debug\Assignment.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Assignment\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Assignment\bin\Debug\Assignment.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Assignment\bin\Debug\Assignment.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.pdb

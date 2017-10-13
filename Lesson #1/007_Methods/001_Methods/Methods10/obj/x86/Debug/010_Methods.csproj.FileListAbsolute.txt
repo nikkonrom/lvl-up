@@ -1,0 +1,14 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods10\obj\x86\Debug\Methods15.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods10\obj\x86\Debug\Methods15.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods10\bin\Debug\Methods15.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods10\bin\Debug\Methods15.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods10\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods\001_Methods\Methods10\obj\x86\Debug\Methods15.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods\001_Methods\Methods10\obj\x86\Debug\Methods15.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods\001_Methods\Methods10\bin\Debug\Methods15.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods\001_Methods\Methods10\bin\Debug\Methods15.pdb
+E:\proga\video lessons\c#\[ITVDN] C# Стартовый - 2013\Materials\007_Methods\001_Methods\Methods10\obj\x86\Debug\Methods15.exe
+E:\proga\video lessons\c#\[ITVDN] C# Стартовый - 2013\Materials\007_Methods\001_Methods\Methods10\obj\x86\Debug\Methods15.pdb
+E:\proga\video lessons\c#\[ITVDN] C# Стартовый - 2013\Materials\007_Methods\001_Methods\Methods10\bin\Debug\Methods15.exe
+E:\proga\video lessons\c#\[ITVDN] C# Стартовый - 2013\Materials\007_Methods\001_Methods\Methods10\bin\Debug\Methods15.pdb
+E:\proga\video lessons\c#\[ITVDN] C# Стартовый - 2013\Materials\007_Methods\001_Methods\Methods10\obj\x86\Debug\010_Methods.csprojResolveAssemblyReference.cache

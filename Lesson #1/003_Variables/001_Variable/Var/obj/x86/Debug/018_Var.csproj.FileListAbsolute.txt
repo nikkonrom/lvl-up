@@ -1,0 +1,7 @@
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Var\bin\Debug\Var.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Var\bin\Debug\Var.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Var\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Var\obj\x86\Debug\Var.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Var\obj\x86\Debug\Var.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Var\obj\x86\Debug\Var.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Var\obj\x86\Debug\Var.pdb

@@ -1,0 +1,5 @@
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 7\Task 3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 7\Task 3\bin\Release\Task 3.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 7\Task 3\bin\Release\Task 3.pdb
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 7\Task 3\obj\x86\Release\Task 3.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 7\Task 3\obj\x86\Release\Task 3.pdb

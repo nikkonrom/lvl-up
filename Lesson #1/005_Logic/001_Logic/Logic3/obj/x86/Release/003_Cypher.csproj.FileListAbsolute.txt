@@ -1,0 +1,5 @@
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic3\bin\Release\Logic3.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic3\bin\Release\Logic3.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic3\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic3\obj\x86\Release\Logic3.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic3\obj\x86\Release\Logic3.pdb

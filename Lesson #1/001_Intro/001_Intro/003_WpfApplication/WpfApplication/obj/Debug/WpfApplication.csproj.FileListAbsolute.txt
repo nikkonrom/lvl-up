@@ -1,0 +1,80 @@
+D:\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+D:\WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+D:\WpfApplication\WpfApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\WpfApplication\WpfApplication\obj\Debug\Window1.baml
+D:\WpfApplication\WpfApplication\obj\Debug\Window1.g.cs
+D:\WpfApplication\WpfApplication\obj\Debug\App.g.cs
+D:\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+D:\WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+D:\WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+D:\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+D:\WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+D:\WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+D:\CBS LESSONS\CBS_CS_Essential\001\WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+D:\CBS LESSONS\CBS_CS_Essential\001\WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+D:\CBS LESSONS\CBS_CS_Essential\001\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+D:\CBS LESSONS\CBS_CS_Essential\001\WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+D:\CBS LESSONS\CBS_CS_Essential\001\WpfApplication\WpfApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS LESSONS\CBS_CS_Essential\001\WpfApplication\WpfApplication\obj\Debug\Window1.baml
+D:\CBS LESSONS\CBS_CS_Essential\001\WpfApplication\WpfApplication\obj\Debug\Window1.g.cs
+D:\CBS LESSONS\CBS_CS_Essential\001\WpfApplication\WpfApplication\obj\Debug\App.g.cs
+D:\CBS LESSONS\CBS_CS_Essential\001\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+D:\CBS LESSONS\CBS_CS_Essential\001\WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+D:\CBS LESSONS\CBS_CS_Essential\001\WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+D:\CBS LESSONS\CBS_CS_Essential\001\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\003_WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\003_WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\003_WpfApplication\WpfApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\003_WpfApplication\WpfApplication\obj\Debug\Window1.baml
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\003_WpfApplication\WpfApplication\obj\Debug\Window1.g.cs
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\003_WpfApplication\WpfApplication\obj\Debug\App.g.cs
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS_Essential\001_INTRODUCTION\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\001_INTRODUCTION\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\001_INTRODUCTION\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\001_INTRODUCTION\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Essential\001_INTRODUCTION\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\003_WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\003_WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\ResolveAssemblyReference.cache
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\Window1.baml
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\Window1.g.cs
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\App.g.cs
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\ResGen.read.1.tlog
+d:\-=Study=-\Andrey\C# Essential\C# Essential\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\ResGen.write.1.tlog
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\003_WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\003_WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\Window1.baml
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\Window1.g.cs
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\App.g.cs
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\ResGen.read.1.tlog
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\ResGen.write.1.tlog
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\003_WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\003_WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\Window1.baml
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\Window1.g.cs
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\App.g.cs
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\001_Intro\001_Intro\003_WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache

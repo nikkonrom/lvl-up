@@ -1,0 +1,5 @@
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 4\bin\Release\Lessons 4.exe
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 4\bin\Release\Lessons 4.pdb
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 4\obj\x86\Release\Lessons 4.exe
+C:\Users\Alex CBS\AppData\Local\Temporary Projects\Lessons 4\obj\x86\Release\Lessons 4.pdb

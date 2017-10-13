@@ -1,0 +1,27 @@
+D:\Condition\Condition10\obj\x86\Debug\Condition10.exe
+D:\Condition\Condition10\obj\x86\Debug\Condition10.pdb
+D:\Condition\Condition10\bin\Debug\Condition10.exe
+D:\Condition\Condition10\bin\Debug\Condition10.pdb
+D:\Condition\Condition10\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\001_Conditions\Condition10\obj\x86\Debug\Condition10.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\001_Conditions\Condition10\obj\x86\Debug\Condition10.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition10\bin\Debug\Condition10.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition10\bin\Debug\Condition10.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition10\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition10\obj\x86\Debug\Condition10.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition10\obj\x86\Debug\Condition10.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition10\bin\Debug\Condition10.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition10\bin\Debug\Condition10.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition10\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition10\obj\x86\Debug\Condition10.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition10\obj\x86\Debug\Condition10.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\004_Conditions\001_Conditions\Condition10\obj\x86\Debug\Condition10.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\004_Conditions\001_Conditions\Condition10\obj\x86\Debug\Condition10.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\004_Conditions\001_Conditions\Condition10\bin\Debug\Condition10.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\004_Conditions\001_Conditions\Condition10\bin\Debug\Condition10.pdb
+D:\CBS_LESSONS\CS_Starter_RU\Lessons\004_Conditions\001_Conditions\Condition10\obj\x86\Debug\Condition10.exe
+D:\CBS_LESSONS\CS_Starter_RU\Lessons\004_Conditions\001_Conditions\Condition10\obj\x86\Debug\Condition10.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\004_Conditions\001_Conditions\Condition10\obj\x86\Debug\Condition10.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\004_Conditions\001_Conditions\Condition10\obj\x86\Debug\Condition10.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\004_Conditions\001_Conditions\Condition10\obj\x86\Debug\Condition10.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\004_Conditions\001_Conditions\Condition10\obj\x86\Debug\Condition10.pdb

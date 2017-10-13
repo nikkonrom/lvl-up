@@ -1,0 +1,16 @@
+D:\Loop\Loop19\obj\x86\Debug\Loop19.exe
+D:\Loop\Loop19\obj\x86\Debug\Loop19.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop19\obj\x86\Debug\Loop19.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop19\obj\x86\Debug\Loop19.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop19\bin\Debug\Loop19.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop19\bin\Debug\Loop19.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop19\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop19\obj\x86\Debug\Loop19.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop19\obj\x86\Debug\Loop19.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop19\bin\Debug\Loop19.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop19\bin\Debug\Loop19.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop19\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\006_Loops\001_Loops\Loop19\obj\x86\Debug\Loop19.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\006_Loops\001_Loops\Loop19\obj\x86\Debug\Loop19.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\006_Loops\001_Loops\Loop19\bin\Debug\Loop19.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\006_Loops\001_Loops\Loop19\bin\Debug\Loop19.pdb

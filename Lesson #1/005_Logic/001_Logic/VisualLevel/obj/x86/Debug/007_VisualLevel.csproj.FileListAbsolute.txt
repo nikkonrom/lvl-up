@@ -1,0 +1,76 @@
+D:\Logic\VisualLevel\bin\Debug\VisualLevel.exe
+D:\Logic\VisualLevel\bin\Debug\VisualLevel.pdb
+D:\Logic\VisualLevel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Logic\VisualLevel\obj\x86\Debug\MainWindow.baml
+D:\Logic\VisualLevel\obj\x86\Debug\MainWindow.g.cs
+D:\Logic\VisualLevel\obj\x86\Debug\App.g.cs
+D:\Logic\VisualLevel\obj\x86\Debug\VisualLevel_MarkupCompile.cache
+D:\Logic\VisualLevel\obj\x86\Debug\VisualLevel.g.resources
+D:\Logic\VisualLevel\obj\x86\Debug\VisualLevel.Properties.Resources.resources
+D:\Logic\VisualLevel\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Logic\VisualLevel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Logic\VisualLevel\obj\x86\Debug\VisualLevel.exe
+D:\Logic\VisualLevel\obj\x86\Debug\VisualLevel.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\bin\Debug\VisualLevel.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\bin\Debug\VisualLevel.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\MainWindow.baml
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\MainWindow.g.cs
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\App.g.cs
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel_MarkupCompile.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel.g.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\bin\Debug\VisualLevel.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\bin\Debug\VisualLevel.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\MainWindow.baml
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\MainWindow.g.cs
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\App.g.cs
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel_MarkupCompile.cache
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel.g.resources
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel.Properties.Resources.resources
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\bin\Debug\VisualLevel.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\bin\Debug\VisualLevel.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\MainWindow.baml
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\MainWindow.g.cs
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\App.g.cs
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel_MarkupCompile.cache
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel.g.resources
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel.Properties.Resources.resources
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\VisualLevel\bin\Debug\VisualLevel.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\VisualLevel\bin\Debug\VisualLevel.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\VisualLevel\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\VisualLevel\obj\x86\Debug\MainWindow.baml
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\VisualLevel\obj\x86\Debug\MainWindow.g.cs
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\VisualLevel\obj\x86\Debug\App.g.cs
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel_MarkupCompile.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel.g.resources
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel.Properties.Resources.resources
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\VisualLevel\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\VisualLevel\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\VisualLevel\obj\x86\Debug\VisualLevel.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\VisualLevel\bin\Debug\VisualLevel.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\VisualLevel\bin\Debug\VisualLevel.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\VisualLevel\obj\x86\Debug\MainWindow.baml
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\VisualLevel\obj\x86\Debug\MainWindow.g.cs
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\VisualLevel\obj\x86\Debug\App.g.cs
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\VisualLevel\obj\x86\Debug\VisualLevel_MarkupCompile.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\VisualLevel\obj\x86\Debug\VisualLevel.g.resources
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\VisualLevel\obj\x86\Debug\VisualLevel.Properties.Resources.resources
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\VisualLevel\obj\x86\Debug\007_VisualLevel.csproj.GenerateResource.Cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\VisualLevel\obj\x86\Debug\VisualLevel.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\VisualLevel\obj\x86\Debug\VisualLevel.pdb

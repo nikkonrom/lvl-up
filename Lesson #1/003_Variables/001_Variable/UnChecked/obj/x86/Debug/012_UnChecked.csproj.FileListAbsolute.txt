@@ -1,0 +1,7 @@
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\UnChecked\bin\Debug\UnChecked.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\UnChecked\bin\Debug\UnChecked.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\UnChecked\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.pdb

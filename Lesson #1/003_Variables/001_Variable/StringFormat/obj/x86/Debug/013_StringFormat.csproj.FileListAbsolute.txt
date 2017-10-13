@@ -1,0 +1,15 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\StringFormat\obj\x86\Debug\StringFormat.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\StringFormat\obj\x86\Debug\StringFormat.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\StringFormat\obj\x86\Debug\StringFormat.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\StringFormat\obj\x86\Debug\StringFormat.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\StringFormat\bin\Debug\StringFormat.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\StringFormat\bin\Debug\StringFormat.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\StringFormat\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\StringFormat\obj\x86\Debug\StringFormat.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\StringFormat\obj\x86\Debug\StringFormat.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\StringFormat\bin\Debug\StringFormat.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\StringFormat\bin\Debug\StringFormat.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\StringFormat\obj\x86\Debug\StringFormat.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\StringFormat\obj\x86\Debug\StringFormat.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\StringFormat\obj\x86\Debug\StringFormat.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\StringFormat\obj\x86\Debug\StringFormat.pdb

@@ -1,0 +1,2 @@
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\FloatDoubleDecimal\obj\x86\Debug\FloatDoubleDecimal.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\FloatDoubleDecimal\obj\x86\Debug\FloatDoubleDecimal.pdb

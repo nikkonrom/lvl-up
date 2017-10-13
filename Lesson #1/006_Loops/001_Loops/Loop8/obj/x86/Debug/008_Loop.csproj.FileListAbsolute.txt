@@ -1,0 +1,5 @@
+D:\Loop\Loop8\bin\Debug\Loop8.exe
+D:\Loop\Loop8\bin\Debug\Loop8.pdb
+D:\Loop\Loop8\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Loop\Loop8\obj\x86\Debug\Loop8.exe
+D:\Loop\Loop8\obj\x86\Debug\Loop8.pdb

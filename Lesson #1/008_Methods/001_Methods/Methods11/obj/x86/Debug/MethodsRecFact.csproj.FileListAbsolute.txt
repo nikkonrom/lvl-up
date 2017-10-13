@@ -1,0 +1,5 @@
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\MethodsRecFact\bin\Debug\MethodsRecFact.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\MethodsRecFact\bin\Debug\MethodsRecFact.pdb
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\MethodsRecFact\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\MethodsRecFact\obj\x86\Debug\MethodsRecFact.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\MethodsRecFact\obj\x86\Debug\MethodsRecFact.pdb

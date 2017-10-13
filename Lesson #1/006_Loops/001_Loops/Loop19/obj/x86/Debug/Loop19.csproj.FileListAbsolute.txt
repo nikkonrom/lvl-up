@@ -1,0 +1,5 @@
+D:\Loop\Loop19\bin\Debug\Loop19.exe
+D:\Loop\Loop19\bin\Debug\Loop19.pdb
+D:\Loop\Loop19\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Loop\Loop19\obj\x86\Debug\Loop19.exe
+D:\Loop\Loop19\obj\x86\Debug\Loop19.pdb

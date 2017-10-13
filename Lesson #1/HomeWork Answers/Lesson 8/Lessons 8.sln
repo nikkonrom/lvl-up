@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addition task", "Addition task\Addition task.csproj", "{05C2EF94-6A57-4D33-B3D8-0D598470825E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1", "Task 1\Task 1.csproj", "{0BBB37F3-4344-4298-8BC6-01C45E44B38B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2", "Task 2\Task 2.csproj", "{D59B1CB5-8AE5-4B1A-8FD4-313FB5118AFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 4", "Task 4\Task 4.csproj", "{32793E10-D965-4F1A-9937-05608DA43663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C2EF94-6A57-4D33-B3D8-0D598470825E}.Debug|x86.ActiveCfg = Debug|x86
+		{05C2EF94-6A57-4D33-B3D8-0D598470825E}.Debug|x86.Build.0 = Debug|x86
+		{05C2EF94-6A57-4D33-B3D8-0D598470825E}.Release|x86.ActiveCfg = Release|x86
+		{05C2EF94-6A57-4D33-B3D8-0D598470825E}.Release|x86.Build.0 = Release|x86
+		{0BBB37F3-4344-4298-8BC6-01C45E44B38B}.Debug|x86.ActiveCfg = Debug|x86
+		{0BBB37F3-4344-4298-8BC6-01C45E44B38B}.Debug|x86.Build.0 = Debug|x86
+		{0BBB37F3-4344-4298-8BC6-01C45E44B38B}.Release|x86.ActiveCfg = Release|x86
+		{0BBB37F3-4344-4298-8BC6-01C45E44B38B}.Release|x86.Build.0 = Release|x86
+		{D59B1CB5-8AE5-4B1A-8FD4-313FB5118AFB}.Debug|x86.ActiveCfg = Debug|x86
+		{D59B1CB5-8AE5-4B1A-8FD4-313FB5118AFB}.Debug|x86.Build.0 = Debug|x86
+		{D59B1CB5-8AE5-4B1A-8FD4-313FB5118AFB}.Release|x86.ActiveCfg = Release|x86
+		{D59B1CB5-8AE5-4B1A-8FD4-313FB5118AFB}.Release|x86.Build.0 = Release|x86
+		{32793E10-D965-4F1A-9937-05608DA43663}.Debug|x86.ActiveCfg = Debug|x86
+		{32793E10-D965-4F1A-9937-05608DA43663}.Debug|x86.Build.0 = Debug|x86
+		{32793E10-D965-4F1A-9937-05608DA43663}.Release|x86.ActiveCfg = Release|x86
+		{32793E10-D965-4F1A-9937-05608DA43663}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

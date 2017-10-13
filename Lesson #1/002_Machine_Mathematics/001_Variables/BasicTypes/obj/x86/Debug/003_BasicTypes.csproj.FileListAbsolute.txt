@@ -1,0 +1,43 @@
+D:\TypeBasics\BasicTypes\bin\Debug\BasicTypes.exe
+D:\TypeBasics\BasicTypes\bin\Debug\BasicTypes.pdb
+D:\TypeBasics\BasicTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TypeBasics\BasicTypes\obj\x86\Debug\BasicTypes.exe
+D:\TypeBasics\BasicTypes\obj\x86\Debug\BasicTypes.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\001_Samples\BasicTypes\obj\x86\Debug\BasicTypes.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_VARIABLE\001_Samples\BasicTypes\obj\x86\Debug\BasicTypes.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\BasicTypes\obj\x86\Debug\BasicTypes.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\BasicTypes\obj\x86\Debug\BasicTypes.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\BasicTypes\bin\Debug\BasicTypes.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\BasicTypes\bin\Debug\BasicTypes.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\002_VARIABLE\001_Samples\BasicTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\BasicTypes\bin\Debug\BasicTypes.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\BasicTypes\bin\Debug\BasicTypes.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\BasicTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\BasicTypes\obj\x86\Debug\BasicTypes.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\BasicTypes\obj\x86\Debug\BasicTypes.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\BasicTypes\obj\x86\Debug\BasicTypes.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\BasicTypes\obj\x86\Debug\BasicTypes.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\BasicTypes\bin\Debug\BasicTypes.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\BasicTypes\bin\Debug\BasicTypes.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\002_Variables\001_Variables\BasicTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+g:\001_Variables\BasicTypes\obj\x86\Debug\BasicTypes.exe
+g:\001_Variables\BasicTypes\obj\x86\Debug\BasicTypes.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\BasicTypes\obj\x86\Debug\BasicTypes.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\BasicTypes\obj\x86\Debug\BasicTypes.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\BasicTypes\bin\Debug\BasicTypes.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\BasicTypes\bin\Debug\BasicTypes.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\002_Variables\001_Variables\BasicTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variables\BasicTypes\obj\x86\Debug\BasicTypes.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variables\BasicTypes\obj\x86\Debug\BasicTypes.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\BasicTypes\obj\x86\Debug\BasicTypes.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\BasicTypes\obj\x86\Debug\BasicTypes.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\BasicTypes\bin\Debug\BasicTypes.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\BasicTypes\bin\Debug\BasicTypes.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\BasicTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\BasicTypes\obj\x86\Debug\BasicTypes.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\BasicTypes\bin\Debug\BasicTypes.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\BasicTypes\bin\Debug\BasicTypes.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\BasicTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\BasicTypes\obj\x86\Debug\BasicTypes.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\BasicTypes\obj\x86\Debug\BasicTypes.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\002_Machine_Mathematics\001_Variables\BasicTypes\obj\x86\Debug\BasicTypes.pdb

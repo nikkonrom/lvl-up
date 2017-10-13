@@ -1,0 +1,9 @@
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\FlagFormating\bin\Debug\FlagFormating.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\FlagFormating\bin\Debug\FlagFormating.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\FlagFormating\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\FlagFormating\obj\x86\Debug\FlagFormating.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\FlagFormating\obj\x86\Debug\FlagFormating.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\FlagFormating\obj\x86\Debug\FlagFormating.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\FlagFormating\obj\x86\Debug\FlagFormating.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\FlagFormating\bin\Debug\FlagFormating.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\FlagFormating\bin\Debug\FlagFormating.pdb

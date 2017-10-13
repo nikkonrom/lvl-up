@@ -1,0 +1,2 @@
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\IncDec\obj\x86\Debug\IncDec.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\IncDec\obj\x86\Debug\IncDec.pdb

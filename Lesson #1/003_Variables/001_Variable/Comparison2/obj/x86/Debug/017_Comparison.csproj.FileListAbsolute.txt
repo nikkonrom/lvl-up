@@ -1,0 +1,14 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Comparison2\obj\x86\Debug\Comparison2.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Comparison2\obj\x86\Debug\Comparison2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Comparison2\bin\Debug\Comparison2.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Comparison2\bin\Debug\Comparison2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Comparison2\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Comparison2\obj\x86\Debug\Comparison2.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Comparison2\obj\x86\Debug\Comparison2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Comparison2\bin\Debug\Comparison2.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Comparison2\bin\Debug\Comparison2.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Comparison2\obj\x86\Debug\017_Comparison.csprojResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Comparison2\obj\x86\Debug\Comparison2.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Comparison2\obj\x86\Debug\Comparison2.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Comparison2\obj\x86\Debug\Comparison2.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Comparison2\obj\x86\Debug\Comparison2.pdb

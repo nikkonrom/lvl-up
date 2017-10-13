@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Additional task 1", "Additional task 1\Additional task 1.csproj", "{EEE44F13-2CDF-4213-BA93-74375FC69A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1", "Task 1\Task 1.csproj", "{1809EC06-0385-42AD-BFB7-A889A8E965FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2", "Task 2\Task 2.csproj", "{2EFE2BF1-1E00-4877-BA7A-1215EA895051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE44F13-2CDF-4213-BA93-74375FC69A9C}.Debug|x86.ActiveCfg = Debug|x86
+		{EEE44F13-2CDF-4213-BA93-74375FC69A9C}.Debug|x86.Build.0 = Debug|x86
+		{EEE44F13-2CDF-4213-BA93-74375FC69A9C}.Release|x86.ActiveCfg = Release|x86
+		{EEE44F13-2CDF-4213-BA93-74375FC69A9C}.Release|x86.Build.0 = Release|x86
+		{1809EC06-0385-42AD-BFB7-A889A8E965FE}.Debug|x86.ActiveCfg = Debug|x86
+		{1809EC06-0385-42AD-BFB7-A889A8E965FE}.Debug|x86.Build.0 = Debug|x86
+		{1809EC06-0385-42AD-BFB7-A889A8E965FE}.Release|x86.ActiveCfg = Release|x86
+		{1809EC06-0385-42AD-BFB7-A889A8E965FE}.Release|x86.Build.0 = Release|x86
+		{2EFE2BF1-1E00-4877-BA7A-1215EA895051}.Debug|x86.ActiveCfg = Debug|x86
+		{2EFE2BF1-1E00-4877-BA7A-1215EA895051}.Debug|x86.Build.0 = Debug|x86
+		{2EFE2BF1-1E00-4877-BA7A-1215EA895051}.Release|x86.ActiveCfg = Release|x86
+		{2EFE2BF1-1E00-4877-BA7A-1215EA895051}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

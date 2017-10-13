@@ -1,0 +1,12 @@
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 2\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 2\Task 1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 2\Task 1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 2\Task 1\obj\x86\Debug\ConsoleApplication1.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 2\Task 1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 2\Task 1\bin\Debug\ConsoleApplication1.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 2\Task 1\bin\Debug\ConsoleApplication1.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 2\Task 1\obj\x86\Debug\ResolveAssemblyReference.cache

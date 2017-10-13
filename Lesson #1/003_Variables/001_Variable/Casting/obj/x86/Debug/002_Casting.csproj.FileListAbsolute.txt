@@ -1,0 +1,18 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Casting\obj\x86\Debug\Casting.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Casting\obj\x86\Debug\Casting.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Casting\bin\Debug\Casting.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Casting\bin\Debug\Casting.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Casting\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Casting\bin\Debug\Casting.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Casting\bin\Debug\Casting.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Casting\bin\Debug\Casting.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Casting\bin\Debug\Casting.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Casting\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.pdb

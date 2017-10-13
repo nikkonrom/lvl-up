@@ -1,0 +1,12 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods21\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods21\bin\Debug\Methods21.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods21\bin\Debug\Methods21.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods21\obj\x86\Debug\Methods21.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods21\obj\x86\Debug\Methods21.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods21\obj\x86\Debug\Methods21.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods21\obj\x86\Debug\Methods21.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods21\bin\Debug\Methods21.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods21\bin\Debug\Methods21.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods21\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods21\obj\x86\Debug\Methods21.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods21\obj\x86\Debug\Methods21.pdb

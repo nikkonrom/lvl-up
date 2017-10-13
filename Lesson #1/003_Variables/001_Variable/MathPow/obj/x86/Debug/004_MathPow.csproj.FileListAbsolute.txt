@@ -1,0 +1,19 @@
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\MathPow\obj\x86\Debug\ConsoleApplication1.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\MathPow\obj\x86\Debug\ConsoleApplication1.pdb
+G:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\MathPow\obj\x86\Debug\ConsoleApplication1.exe
+G:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\MathPow\obj\x86\Debug\ConsoleApplication1.pdb
+H:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\MathPow\obj\x86\Debug\ConsoleApplication1.exe
+H:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\MathPow\obj\x86\Debug\ConsoleApplication1.pdb
+H:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\MathPow\bin\Debug\ConsoleApplication1.exe
+H:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\MathPow\bin\Debug\ConsoleApplication1.pdb
+H:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\MathPow\obj\x86\Debug\004_MathPow.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\MathPow\obj\x86\Debug\ConsoleApplication1.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\MathPow\obj\x86\Debug\ConsoleApplication1.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\MathPow\bin\Debug\ConsoleApplication1.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\MathPow\bin\Debug\ConsoleApplication1.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\MathPow\obj\x86\Debug\004_MathPow.csprojResolveAssemblyReference.cache

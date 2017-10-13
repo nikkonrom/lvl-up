@@ -1,0 +1,21 @@
+D:\Loop\Loop15\bin\Debug\Loop15.exe
+D:\Loop\Loop15\bin\Debug\Loop15.pdb
+D:\Loop\Loop15\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Loop\Loop15\obj\x86\Debug\Loop15.exe
+D:\Loop\Loop15\obj\x86\Debug\Loop15.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop15\obj\x86\Debug\Loop15.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop15\obj\x86\Debug\Loop15.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop15\bin\Debug\Loop15.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop15\bin\Debug\Loop15.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop15\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop15\bin\Debug\Loop15.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop15\bin\Debug\Loop15.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop15\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop15\obj\x86\Debug\Loop15.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop15\obj\x86\Debug\Loop15.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\006_Loops\001_Loops\Loop15\obj\x86\Debug\Loop15.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\006_Loops\001_Loops\Loop15\obj\x86\Debug\Loop15.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\006_Loops\001_Loops\Loop15\bin\Debug\Loop15.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\006_Loops\001_Loops\Loop15\bin\Debug\Loop15.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\006_Loops\001_Loops\Loop15\obj\x86\Debug\Loop15.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\006_Loops\001_Loops\Loop15\obj\x86\Debug\Loop15.pdb

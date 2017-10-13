@@ -1,0 +1,19 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods10\obj\x86\Debug\Methods10.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods10\obj\x86\Debug\Methods10.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods8\obj\x86\Debug\Methods10.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods8\obj\x86\Debug\Methods10.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods8\bin\Debug\Methods10.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods8\bin\Debug\Methods10.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods(Recursion)\001_Methods\Methods8\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods8\obj\x86\Debug\Methods10.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods8\obj\x86\Debug\Methods10.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods8\bin\Debug\Methods10.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods8\bin\Debug\Methods10.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods8\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\008_Methods\001_Methods\Methods8\obj\x86\Debug\Methods10.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\008_Methods\001_Methods\Methods8\obj\x86\Debug\Methods10.pdb
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods8\bin\Debug\Methods10.exe
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods8\bin\Debug\Methods10.pdb
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods8\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods8\obj\x86\Debug\Methods10.exe
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods8\obj\x86\Debug\Methods10.pdb

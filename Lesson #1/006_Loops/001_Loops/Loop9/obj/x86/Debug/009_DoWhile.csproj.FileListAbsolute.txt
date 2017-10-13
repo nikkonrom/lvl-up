@@ -1,0 +1,18 @@
+D:\Loop\Loop9\bin\Debug\Loop9.exe
+D:\Loop\Loop9\bin\Debug\Loop9.pdb
+D:\Loop\Loop9\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Loop\Loop9\obj\x86\Debug\Loop9.exe
+D:\Loop\Loop9\obj\x86\Debug\Loop9.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop9\obj\x86\Debug\Loop9.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop9\obj\x86\Debug\Loop9.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop9\bin\Debug\Loop9.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop9\bin\Debug\Loop9.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop9\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop9\obj\x86\Debug\Loop9.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\004_Loops\001_Loops\Loop9\obj\x86\Debug\Loop9.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\006_Loops\001_Loops\Loop9\obj\x86\Debug\Loop9.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\006_Loops\001_Loops\Loop9\obj\x86\Debug\Loop9.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\006_Loops\001_Loops\Loop9\bin\Debug\Loop9.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\006_Loops\001_Loops\Loop9\bin\Debug\Loop9.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\006_Loops\001_Loops\Loop9\obj\x86\Debug\Loop9.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\006_Loops\001_Loops\Loop9\obj\x86\Debug\Loop9.pdb

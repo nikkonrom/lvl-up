@@ -1,0 +1,14 @@
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 3\Lessons 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 3\Lessons 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 3\Lessons 3\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 3\Lessons 3\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 3\Lessons 3\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 3\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 3\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 3\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CS_Starter_RU\HomeWork Answers\Lesson 3\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\CS_Starter_RU\HomeWork Answers\Lesson 3\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\CS_Starter_RU\HomeWork Answers\Lesson 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\CS_Starter_RU\HomeWork Answers\Lesson 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb

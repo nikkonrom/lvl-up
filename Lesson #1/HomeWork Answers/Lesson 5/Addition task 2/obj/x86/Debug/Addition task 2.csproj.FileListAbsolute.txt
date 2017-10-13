@@ -1,0 +1,10 @@
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 5\Addition task 2\bin\Debug\Addition task 2.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 5\Addition task 2\bin\Debug\Addition task 2.pdb
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 5\Addition task 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 5\Addition task 2\obj\x86\Debug\Addition task 2.exe
+C:\Users\Alex CBS\Desktop\Practic C# Starter\Lessons 5\Addition task 2\obj\x86\Debug\Addition task 2.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 5\Addition task 2\obj\x86\Debug\Addition task 2.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 5\Addition task 2\obj\x86\Debug\Addition task 2.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 5\Addition task 2\bin\Debug\Addition task 2.exe
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 5\Addition task 2\bin\Debug\Addition task 2.pdb
+D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 5\Addition task 2\obj\x86\Debug\ResolveAssemblyReference.cache

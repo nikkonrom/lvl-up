@@ -1,0 +1,31 @@
+D:\Condition\Condition\bin\Debug\Condition.exe
+D:\Condition\Condition\bin\Debug\Condition.pdb
+D:\Condition\Condition\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Condition\Condition\obj\x86\Debug\Condition.exe
+D:\Condition\Condition\obj\x86\Debug\Condition.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\003_CONDITION\001_Samples\Condition\obj\x86\Debug\Condition.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\003_CONDITION\001_Samples\Condition\obj\x86\Debug\Condition.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_CONDITION\001_Samples\Condition\obj\x86\Debug\Condition.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_CONDITION\001_Samples\Condition\obj\x86\Debug\Condition.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\001_Conditions\Condition\obj\x86\Debug\Condition.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\001_Conditions\Condition\obj\x86\Debug\Condition.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition\obj\x86\Debug\Condition.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition\obj\x86\Debug\Condition.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition\bin\Debug\Condition.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition\bin\Debug\Condition.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition\obj\x86\Debug\Condition.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition\obj\x86\Debug\Condition.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition\bin\Debug\Condition.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition\bin\Debug\Condition.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Condition\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\004_Conditions\001_Conditions\Condition\obj\x86\Debug\Condition.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\004_Conditions\001_Conditions\Condition\obj\x86\Debug\Condition.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\004_Conditions\001_Conditions\Condition\bin\Debug\Condition.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\004_Conditions\001_Conditions\Condition\bin\Debug\Condition.pdb
+D:\CBS_LESSONS\CS_Starter_RU\Lessons\004_Conditions\001_Conditions\Condition\obj\x86\Debug\Condition.exe
+D:\CBS_LESSONS\CS_Starter_RU\Lessons\004_Conditions\001_Conditions\Condition\obj\x86\Debug\Condition.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\004_Conditions\001_Conditions\Condition\obj\x86\Debug\Condition.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\004_Conditions\001_Conditions\Condition\obj\x86\Debug\Condition.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\004_Conditions\001_Conditions\Condition\obj\x86\Debug\Condition.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\004_Conditions\001_Conditions\Condition\obj\x86\Debug\Condition.pdb

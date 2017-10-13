@@ -1,0 +1,20 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Arithmetic\obj\x86\Debug\Arithmetic.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Arithmetic\obj\x86\Debug\Arithmetic.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Arithmetic\bin\Debug\Arithmetic.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Arithmetic\bin\Debug\Arithmetic.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Arithmetic\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Arithmetic\obj\x86\Debug\Arithmetic.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Arithmetic\obj\x86\Debug\Arithmetic.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Arithmetic\bin\Debug\Arithmetic.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Arithmetic\bin\Debug\Arithmetic.pdb
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Arithmetic\obj\x86\Debug\Arithmetic.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Arithmetic\obj\x86\Debug\Arithmetic.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Arithmetic\obj\x86\Debug\Arithmetic.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Arithmetic\obj\x86\Debug\Arithmetic.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Arithmetic\bin\Debug\Arithmetic.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Arithmetic\bin\Debug\Arithmetic.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Arithmetic\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Arithmetic\obj\x86\Debug\Arithmetic.exe
+H:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Arithmetic\obj\x86\Debug\Arithmetic.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Arithmetic\obj\x86\Debug\Arithmetic.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Arithmetic\obj\x86\Debug\Arithmetic.pdb

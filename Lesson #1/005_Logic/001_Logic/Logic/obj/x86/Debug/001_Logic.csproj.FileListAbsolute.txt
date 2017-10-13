@@ -1,0 +1,31 @@
+D:\Logic\Logic\obj\x86\Debug\Logic.exe
+D:\Logic\Logic\obj\x86\Debug\Logic.pdb
+D:\Logic\Logic\bin\Debug\Logic.exe
+D:\Logic\Logic\bin\Debug\Logic.pdb
+D:\Logic\Logic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_CONDITION\002_Logic\Logic\obj\x86\Debug\Logic.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_CONDITION\002_Logic\Logic\obj\x86\Debug\Logic.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\Logic\obj\x86\Debug\Logic.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\Logic\obj\x86\Debug\Logic.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\Logic\bin\Debug\Logic.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\Logic\bin\Debug\Logic.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\Logic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic\obj\x86\Debug\Logic.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic\obj\x86\Debug\Logic.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic\bin\Debug\Logic.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic\bin\Debug\Logic.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic\obj\x86\Debug\Logic.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic\obj\x86\Debug\Logic.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic\bin\Debug\Logic.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic\bin\Debug\Logic.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\Logic\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\Logic\obj\x86\Debug\Logic.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\Logic\obj\x86\Debug\Logic.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\Logic\bin\Debug\Logic.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\Logic\bin\Debug\Logic.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\Logic\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\Logic\obj\x86\Debug\Logic.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\Logic\obj\x86\Debug\Logic.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\Logic\bin\Debug\Logic.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\Logic\bin\Debug\Logic.pdb

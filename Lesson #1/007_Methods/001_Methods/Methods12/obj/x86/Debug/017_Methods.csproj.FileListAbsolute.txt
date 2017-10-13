@@ -1,0 +1,17 @@
+D:\Methods\Methods17\bin\Debug\Methods17.exe
+D:\Methods\Methods17\bin\Debug\Methods17.pdb
+D:\Methods\Methods17\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Methods\Methods17\obj\x86\Debug\Methods17.exe
+D:\Methods\Methods17\obj\x86\Debug\Methods17.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods17\bin\Debug\Methods17.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods17\bin\Debug\Methods17.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods17\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods17\obj\x86\Debug\Methods17.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods17\obj\x86\Debug\Methods17.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods17\obj\x86\Debug\Methods17.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods17\obj\x86\Debug\Methods17.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods17\bin\Debug\Methods17.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods17\bin\Debug\Methods17.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods17\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods17\obj\x86\Debug\Methods17.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods17\obj\x86\Debug\Methods17.pdb

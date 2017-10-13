@@ -1,0 +1,5 @@
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 9 _доделать\Task 2\bin\Release\Task 2.exe
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 9 _доделать\Task 2\bin\Release\Task 2.pdb
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 9 _доделать\Task 2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 9 _доделать\Task 2\obj\x86\Release\Task 2.exe
+C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 9 _доделать\Task 2\obj\x86\Release\Task 2.pdb

@@ -1,0 +1,5 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\001_Classes\001_Classes\Classes6\bin\Release\Classes6.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\001_Classes\001_Classes\Classes6\bin\Release\Classes6.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\001_Classes\001_Classes\Classes6\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\001_Classes\001_Classes\Classes6\obj\x86\Release\Classes6.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\001_Classes\001_Classes\Classes6\obj\x86\Release\Classes6.pdb

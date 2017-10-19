@@ -1,0 +1,27 @@
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\001_Classes\001_Classes\Classes16\obj\x86\Debug\Classes16.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\001_Classes\001_Classes\Classes16\obj\x86\Debug\Classes16.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\001_Classes\001_Classes\Classes16\bin\Debug\Classes16.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\001_Classes\001_Classes\Classes16\bin\Debug\Classes16.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\001_Classes\001_Classes\Classes16\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\001_Classes\001_Classes\Classes11\bin\Debug\Classes16.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\001_Classes\001_Classes\Classes11\bin\Debug\Classes16.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\001_Classes\001_Classes\Classes11\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\001_Classes\001_Classes\Classes11\obj\x86\Debug\Classes16.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\001_Classes\001_Classes\Classes11\obj\x86\Debug\Classes16.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\001_Classes\001_Classes\Classes11\obj\x86\Debug\Classes16.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\001_Classes\001_Classes\Classes11\obj\x86\Debug\Classes16.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\001_Classes\001_Classes\Classes11\bin\Debug\Classes16.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\001_Classes\001_Classes\Classes11\bin\Debug\Classes16.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\001_Classes\001_Classes\Classes11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\001_Classes\001_Classes\Classes11\bin\Debug\Classes16.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\001_Classes\001_Classes\Classes11\bin\Debug\Classes16.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\001_Classes\001_Classes\Classes11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\001_Classes\001_Classes\Classes11\obj\x86\Debug\Classes16.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\001_Classes\001_Classes\Classes11\obj\x86\Debug\Classes16.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\001_Classes\001_Classes\Classes11\obj\x86\Debug\Classes16.pdb
+C:\Users\Vitalii\Documents\CD\C# Essential\C# Essential Source\001_Classes\001_Classes\Classes11\obj\x86\Debug\Classes16.pdb
+E:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\001_Classes\001_Classes\Classes11\bin\Debug\Classes16.exe
+E:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\001_Classes\001_Classes\Classes11\bin\Debug\Classes16.pdb
+E:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\001_Classes\001_Classes\Classes11\obj\x86\Debug\011_Classes.csproj.CoreCompileInputs.cache
+E:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\001_Classes\001_Classes\Classes11\obj\x86\Debug\Classes16.exe
+E:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\001_Classes\001_Classes\Classes11\obj\x86\Debug\Classes16.pdb

@@ -1,0 +1,39 @@
+D:\Classes\Classes\bin\Debug\Classes.exe
+D:\Classes\Classes\bin\Debug\Classes.pdb
+D:\Classes\Classes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Classes\Classes\obj\x86\Debug\Classes.exe
+D:\Classes\Classes\obj\x86\Debug\Classes.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes\obj\x86\Debug\Classes.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes\obj\x86\Debug\Classes.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes\bin\Debug\Classes.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes\bin\Debug\Classes.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes\obj\x86\Debug\Classes.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes\obj\x86\Debug\Classes.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes\bin\Debug\Classes.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes\bin\Debug\Classes.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\001_Classes\001_Classes\Classes\obj\x86\Debug\Classes.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\001_Classes\001_Classes\Classes\obj\x86\Debug\Classes.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\001_Classes\001_Classes\Classes\bin\Debug\Classes.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\001_Classes\001_Classes\Classes\bin\Debug\Classes.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\001_Classes\001_Classes\Classes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\001_Classes\001_Classes\Classes\obj\x86\Debug\Classes.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\001_Classes\001_Classes\Classes\obj\x86\Debug\Classes.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\001_Classes\001_Classes\Classes\bin\Debug\Classes.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\001_Classes\001_Classes\Classes\bin\Debug\Classes.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\001_Classes\001_Classes\Classes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\001_Classes\001_Classes\Classes\obj\x86\Debug\Classes.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\001_Classes\001_Classes\Classes\obj\x86\Debug\Classes.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\001_Classes\001_Classes\Classes\bin\Debug\Classes.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\001_Classes\001_Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\001_Classes\001_Classes\Classes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\C# Essential\CS_Essential_RU\001_Classes\001_Classes\Classes\obj\x86\Debug\Classes.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\001_Classes\001_Classes\Classes\obj\x86\Debug\Classes.pdb
+C:\Users\Vitalii\Documents\CD\C# Essential\C# Essential Source\001_Classes\001_Classes\Classes\obj\x86\Debug\Classes.pdb
+E:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\001_Classes\001_Classes\Classes\bin\Debug\Classes.exe
+E:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\001_Classes\001_Classes\Classes\bin\Debug\Classes.pdb
+E:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\001_Classes\001_Classes\Classes\obj\x86\Debug\001_Classes.csprojResolveAssemblyReference.cache
+E:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\001_Classes\001_Classes\Classes\obj\x86\Debug\001_Classes.csproj.CoreCompileInputs.cache
+E:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\001_Classes\001_Classes\Classes\obj\x86\Debug\Classes.exe
+E:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\001_Classes\001_Classes\Classes\obj\x86\Debug\Classes.pdb

@@ -1,0 +1,2 @@
+D:\Classes\Classes6\obj\x86\Debug\Classes6.exe
+D:\Classes\Classes6\obj\x86\Debug\Classes6.pdb

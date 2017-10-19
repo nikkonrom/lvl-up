@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Classes.Document">
+    <Position X="4.5" Y="3.5" Width="3.25" />
+    <AssociationLine Name="body" Type="Classes.Body" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.75" Y="4.148" />
+        <Point X="8.125" Y="4.148" />
+        <Point X="8.125" Y="4" />
+        <Point X="10.5" Y="4" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAQAAAAAAAAAAAAAAAAQAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Document\Document.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="body" />
+      <Field Name="title" />
+      <Field Name="footer" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Classes.Body">
+    <Position X="10.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Document\Parts\Body.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classes.Footer">
+    <Position X="10.5" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Document\Parts\Footer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classes.Title">
+    <Position X="10.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Document\Parts\Title.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classes.Program">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

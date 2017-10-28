@@ -1,0 +1,5 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\002_Inheritance\Inheritance12\bin\Debug\Inheritance12.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\002_Inheritance\Inheritance12\bin\Debug\Inheritance12.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\002_Inheritance\Inheritance12\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\002_Inheritance\Inheritance12\obj\x86\Debug\Inheritance12.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\002_Inheritance\Inheritance12\obj\x86\Debug\Inheritance12.pdb

@@ -1,0 +1,15 @@
+D:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\002_Classes\001_Classes\Classes8\bin\Debug\Classes8.exe
+D:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\002_Classes\001_Classes\Classes8\bin\Debug\Classes8.pdb
+D:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\002_Classes\001_Classes\Classes8\obj\x86\Debug\Classes8.exe
+D:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\002_Classes\001_Classes\Classes8\obj\x86\Debug\Classes8.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\002_Classes\001_Classes\Classes8\obj\x86\Debug\Classes8.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\002_Classes\001_Classes\Classes8\obj\x86\Debug\Classes8.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\002_Classes\001_Classes\Classes8\bin\Debug\Classes8.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\002_Classes\001_Classes\Classes8\bin\Debug\Classes8.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\002_Classes\001_Classes\Classes8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\002_Classes\001_Classes\Classes8\obj\x86\Debug\Classes8.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\002_Classes\001_Classes\Classes8\obj\x86\Debug\Classes8.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\002_Classes\001_Classes\Classes8\bin\Debug\Classes8.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\002_Classes\001_Classes\Classes8\bin\Debug\Classes8.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\002_Classes\001_Classes\Classes8\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\002_Classes\001_Classes\Classes8\obj\x86\Debug\Classes8.pdb

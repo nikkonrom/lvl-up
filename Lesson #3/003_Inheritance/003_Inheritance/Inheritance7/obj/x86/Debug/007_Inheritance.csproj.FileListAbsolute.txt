@@ -1,0 +1,7 @@
+D:\Inheritance\Inheritance7\bin\Debug\Inheritance7.exe
+D:\Inheritance\Inheritance7\bin\Debug\Inheritance7.pdb
+D:\Inheritance\Inheritance7\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Inheritance\Inheritance7\obj\x86\Debug\Inheritance7.exe
+D:\Inheritance\Inheritance7\obj\x86\Debug\Inheritance7.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\002_Inheritance\Inheritance7\obj\x86\Debug\Inheritance7.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\002_Inheritance\Inheritance7\obj\x86\Debug\Inheritance7.pdb

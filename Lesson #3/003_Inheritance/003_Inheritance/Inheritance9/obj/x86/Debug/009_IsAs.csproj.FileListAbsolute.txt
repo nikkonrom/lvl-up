@@ -1,0 +1,24 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\002_Inheritance\Inheritance9\bin\Debug\Inheritance9.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\002_Inheritance\Inheritance9\bin\Debug\Inheritance9.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\002_Inheritance\Inheritance9\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\002_Inheritance\Inheritance9\obj\x86\Debug\Inheritance9.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\002_Inheritance\Inheritance9\obj\x86\Debug\Inheritance9.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\007_Inheritance\001_Inheritance\Inheritance9\obj\x86\Debug\Inheritance9.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\007_Inheritance\001_Inheritance\Inheritance9\obj\x86\Debug\Inheritance9.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\007_Inheritance\001_Inheritance\Inheritance9\bin\Debug\Inheritance9.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\007_Inheritance\001_Inheritance\Inheritance9\bin\Debug\Inheritance9.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\007_Inheritance\001_Inheritance\Inheritance9\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\003_Inheritance\001_Inheritance\Inheritance9\bin\Debug\Inheritance.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\003_Inheritance\001_Inheritance\Inheritance9\bin\Debug\Inheritance.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\003_Inheritance\001_Inheritance\Inheritance9\obj\x86\Debug\Inheritance.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\003_Inheritance\001_Inheritance\Inheritance9\obj\x86\Debug\Inheritance.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance9\obj\x86\Debug\Inheritance.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance9\obj\x86\Debug\Inheritance.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance9\bin\Debug\Inheritance.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance9\bin\Debug\Inheritance.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance9\bin\Debug\Inheritance.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance9\bin\Debug\Inheritance.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance9\obj\x86\Debug\Inheritance.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance9\obj\x86\Debug\Inheritance.pdb

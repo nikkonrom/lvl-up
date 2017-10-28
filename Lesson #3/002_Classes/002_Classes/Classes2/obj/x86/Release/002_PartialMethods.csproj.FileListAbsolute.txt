@@ -1,0 +1,4 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\002_Classes\001_Classes\Classes2\bin\Release\Classes.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\002_Classes\001_Classes\Classes2\bin\Release\Classes.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\002_Classes\001_Classes\Classes2\obj\x86\Release\Classes.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\002_Classes\001_Classes\Classes2\obj\x86\Release\Classes.pdb

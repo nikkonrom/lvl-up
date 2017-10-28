@@ -1,0 +1,5 @@
+D:\Inheritance\Inheritance4\bin\Debug\Inheritance4.exe
+D:\Inheritance\Inheritance4\bin\Debug\Inheritance4.pdb
+D:\Inheritance\Inheritance4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Inheritance\Inheritance4\obj\x86\Debug\Inheritance4.exe
+D:\Inheritance\Inheritance4\obj\x86\Debug\Inheritance4.pdb

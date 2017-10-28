@@ -1,0 +1,17 @@
+D:\Classes\Classes12\bin\Debug\Classes12.exe
+D:\Classes\Classes12\bin\Debug\Classes12.pdb
+D:\Classes\Classes12\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Classes\Classes12\obj\x86\Debug\Classes12.exe
+D:\Classes\Classes12\obj\x86\Debug\Classes12.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes12\obj\x86\Debug\Classes12.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes12\obj\x86\Debug\Classes12.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes12\bin\Debug\Classes12.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes12\bin\Debug\Classes12.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes12\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes12\obj\x86\Debug\Classes12.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes12\obj\x86\Debug\Classes12.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes12\bin\Debug\Classes12.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes12\bin\Debug\Classes12.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes12\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\002_Classes\001_Classes\Classes2\obj\x86\Debug\Classes12.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\002_Classes\001_Classes\Classes2\obj\x86\Debug\Classes12.pdb

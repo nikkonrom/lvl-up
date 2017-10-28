@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_PartialClasses", "Classes1\001_PartialClasses.csproj", "{D6703744-F3DB-41FD-BC08-B17F8167B9D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_PartialMethods", "Classes2\002_PartialMethods.csproj", "{AE7AC325-C23E-462F-B736-8054FBA0DBD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Encapsulation", "Classes3\003_Encapsulation.csproj", "{4CC99AA5-8455-487B-BBB1-75EA0EAEC806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Readonly", "Classes4\004_Readonly.csproj", "{DAAC897F-492E-4DB7-8CB7-EF81F3FFA9E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_SelfAssociation", "Classes5\005_SelfAssociation.csproj", "{699C9D51-6E06-42B1-A289-AD8AD8B8A7F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_SelfAssociation", "Classes6\006_SelfAssociation.csproj", "{E8976C34-ABEF-495F-82A7-3F921A880325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Association", "Classes7\007_Association.csproj", "{88EDAF0D-B252-4CBA-B79A-837138BD846B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Association", "Classes8\008_Association.csproj", "{3361C38E-C8FE-45B7-8484-4871E353E328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6703744-F3DB-41FD-BC08-B17F8167B9D7}.Debug|x86.ActiveCfg = Debug|x86
+		{D6703744-F3DB-41FD-BC08-B17F8167B9D7}.Debug|x86.Build.0 = Debug|x86
+		{D6703744-F3DB-41FD-BC08-B17F8167B9D7}.Release|x86.ActiveCfg = Release|x86
+		{D6703744-F3DB-41FD-BC08-B17F8167B9D7}.Release|x86.Build.0 = Release|x86
+		{AE7AC325-C23E-462F-B736-8054FBA0DBD3}.Debug|x86.ActiveCfg = Debug|x86
+		{AE7AC325-C23E-462F-B736-8054FBA0DBD3}.Debug|x86.Build.0 = Debug|x86
+		{AE7AC325-C23E-462F-B736-8054FBA0DBD3}.Release|x86.ActiveCfg = Release|x86
+		{AE7AC325-C23E-462F-B736-8054FBA0DBD3}.Release|x86.Build.0 = Release|x86
+		{4CC99AA5-8455-487B-BBB1-75EA0EAEC806}.Debug|x86.ActiveCfg = Debug|x86
+		{4CC99AA5-8455-487B-BBB1-75EA0EAEC806}.Debug|x86.Build.0 = Debug|x86
+		{4CC99AA5-8455-487B-BBB1-75EA0EAEC806}.Release|x86.ActiveCfg = Release|x86
+		{4CC99AA5-8455-487B-BBB1-75EA0EAEC806}.Release|x86.Build.0 = Release|x86
+		{DAAC897F-492E-4DB7-8CB7-EF81F3FFA9E6}.Debug|x86.ActiveCfg = Debug|x86
+		{DAAC897F-492E-4DB7-8CB7-EF81F3FFA9E6}.Debug|x86.Build.0 = Debug|x86
+		{DAAC897F-492E-4DB7-8CB7-EF81F3FFA9E6}.Release|x86.ActiveCfg = Release|x86
+		{DAAC897F-492E-4DB7-8CB7-EF81F3FFA9E6}.Release|x86.Build.0 = Release|x86
+		{699C9D51-6E06-42B1-A289-AD8AD8B8A7F0}.Debug|x86.ActiveCfg = Debug|x86
+		{699C9D51-6E06-42B1-A289-AD8AD8B8A7F0}.Debug|x86.Build.0 = Debug|x86
+		{699C9D51-6E06-42B1-A289-AD8AD8B8A7F0}.Release|x86.ActiveCfg = Release|x86
+		{699C9D51-6E06-42B1-A289-AD8AD8B8A7F0}.Release|x86.Build.0 = Release|x86
+		{E8976C34-ABEF-495F-82A7-3F921A880325}.Debug|x86.ActiveCfg = Debug|x86
+		{E8976C34-ABEF-495F-82A7-3F921A880325}.Debug|x86.Build.0 = Debug|x86
+		{E8976C34-ABEF-495F-82A7-3F921A880325}.Release|x86.ActiveCfg = Release|x86
+		{E8976C34-ABEF-495F-82A7-3F921A880325}.Release|x86.Build.0 = Release|x86
+		{88EDAF0D-B252-4CBA-B79A-837138BD846B}.Debug|x86.ActiveCfg = Debug|x86
+		{88EDAF0D-B252-4CBA-B79A-837138BD846B}.Debug|x86.Build.0 = Debug|x86
+		{88EDAF0D-B252-4CBA-B79A-837138BD846B}.Release|x86.ActiveCfg = Release|x86
+		{88EDAF0D-B252-4CBA-B79A-837138BD846B}.Release|x86.Build.0 = Release|x86
+		{3361C38E-C8FE-45B7-8484-4871E353E328}.Debug|x86.ActiveCfg = Debug|x86
+		{3361C38E-C8FE-45B7-8484-4871E353E328}.Debug|x86.Build.0 = Debug|x86
+		{3361C38E-C8FE-45B7-8484-4871E353E328}.Release|x86.ActiveCfg = Release|x86
+		{3361C38E-C8FE-45B7-8484-4871E353E328}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+D:\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\Inheritance\Inheritance\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Inheritance\Inheritance\obj\x86\Debug\Inheritance.exe
+D:\Inheritance\Inheritance\obj\x86\Debug\Inheritance.pdb

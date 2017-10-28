@@ -1,0 +1,8 @@
+E:\proga\c#\ConsoleTorrent\ConsoleTorrent\bin\Debug\ConsoleTorrent.exe.config
+E:\proga\c#\ConsoleTorrent\ConsoleTorrent\bin\Debug\ConsoleTorrent.exe
+E:\proga\c#\ConsoleTorrent\ConsoleTorrent\bin\Debug\ConsoleTorrent.pdb
+E:\proga\c#\ConsoleTorrent\ConsoleTorrent\bin\Debug\MonoTorrent.dll
+E:\proga\c#\ConsoleTorrent\ConsoleTorrent\obj\Debug\ConsoleTorrent.csprojResolveAssemblyReference.cache
+E:\proga\c#\ConsoleTorrent\ConsoleTorrent\obj\Debug\ConsoleTorrent.csproj.CoreCompileInputs.cache
+E:\proga\c#\ConsoleTorrent\ConsoleTorrent\obj\Debug\ConsoleTorrent.exe
+E:\proga\c#\ConsoleTorrent\ConsoleTorrent\obj\Debug\ConsoleTorrent.pdb

@@ -1,0 +1,9 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance7\bin\Release\Inheritance.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance7\bin\Release\Inheritance.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance7\obj\x86\Release\Inheritance.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance7\obj\x86\Release\Inheritance.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance7\obj\x86\Release\Inheritance.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance7\bin\Release\Inheritance.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance7\bin\Release\Inheritance.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance7\obj\x86\Release\007_Virtual.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\003_Inheritance\001_Inheritance\Inheritance7\obj\x86\Release\Inheritance.exe

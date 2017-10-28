@@ -1,0 +1,5 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes15\bin\Debug\Classes15.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes15\bin\Debug\Classes15.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes15\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes15\obj\x86\Debug\Classes15.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\006_Classes\001_Classes\Classes15\obj\x86\Debug\Classes15.pdb

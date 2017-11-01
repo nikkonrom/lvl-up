@@ -1,0 +1,6 @@
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces9\bin\Release\Interfaces9.exe.config
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces9\obj\Release\007_Interfaces.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces9\bin\Release\Interfaces9.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces9\bin\Release\Interfaces9.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces9\obj\Release\Interfaces9.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces9\obj\Release\Interfaces9.pdb

@@ -1,0 +1,4 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\001_Abstraction\Abstraction2\bin\Release\Abstraction.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\001_Abstraction\Abstraction2\bin\Release\Abstraction.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\001_Abstraction\Abstraction2\obj\x86\Release\Abstraction.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\001_Abstraction\Abstraction2\obj\x86\Release\Abstraction.pdb

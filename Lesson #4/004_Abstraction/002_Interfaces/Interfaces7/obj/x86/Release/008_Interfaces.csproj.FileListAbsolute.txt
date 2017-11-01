@@ -1,0 +1,6 @@
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces7\bin\Release\Interfaces7.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces7\bin\Release\Interfaces7.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces7\obj\x86\Release\Interfaces7.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces7\obj\x86\Release\Interfaces7.pdb
+C:\Users\Vitaliy\Desktop\1.0\C# Essential Student Materials\004_Abstraction\002_Interfaces\Interfaces7\obj\x86\Release\Interfaces7.exe
+C:\Users\Vitaliy\Desktop\1.0\C# Essential Student Materials\004_Abstraction\002_Interfaces\Interfaces7\obj\x86\Release\Interfaces7.pdb

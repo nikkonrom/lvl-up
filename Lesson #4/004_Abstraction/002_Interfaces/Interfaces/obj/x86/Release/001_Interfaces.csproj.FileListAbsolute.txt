@@ -1,0 +1,17 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\bin\Release\Interfaces.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\bin\Release\Interfaces.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Release\Interfaces.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Release\Interfaces.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Release\Interfaces.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\bin\Release\Interfaces.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\bin\Release\Interfaces.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Release\001_Interfaces.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Release\Interfaces.exe
+C:\Users\Vitaliy\Desktop\1.0\C# Essential Student Materials\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Release\Interfaces.exe
+C:\Users\Vitaliy\Desktop\1.0\C# Essential Student Materials\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Release\Interfaces.pdb
+e:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\004_Abstraction\002_Interfaces\Interfaces\bin\Release\Interfaces.exe
+e:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\004_Abstraction\002_Interfaces\Interfaces\bin\Release\Interfaces.pdb
+e:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Release\001_Interfaces.csprojResolveAssemblyReference.cache
+e:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Release\001_Interfaces.csproj.CoreCompileInputs.cache
+e:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Release\Interfaces.exe
+e:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Release\Interfaces.pdb

@@ -1,0 +1,5 @@
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interface10\bin\Release\Interface10.exe.config
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interface10\bin\Release\Interface10.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interface10\bin\Release\Interface10.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interface10\obj\Release\Interface10.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interface10\obj\Release\Interface10.pdb

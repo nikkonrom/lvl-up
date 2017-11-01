@@ -1,0 +1,9 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces4\bin\Release\Interfaces4.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces4\bin\Release\Interfaces4.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces4\obj\x86\Release\Interfaces4.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces4\obj\x86\Release\Interfaces4.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces4\obj\x86\Release\Interfaces4.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces4\bin\Release\Interfaces4.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces4\bin\Release\Interfaces4.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces4\obj\x86\Release\004_Interfaces.csprojResolveAssemblyReference.cache
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces4\obj\x86\Release\Interfaces4.exe

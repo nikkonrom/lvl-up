@@ -1,0 +1,27 @@
+D:\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+D:\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+D:\Interfaces\Interfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Interfaces\Interfaces\obj\x86\Debug\Interfaces.exe
+D:\Interfaces\Interfaces\obj\x86\Debug\Interfaces.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\007_Abstraction\002_Interfaces\Interfaces\obj\x86\Debug\Interfaces.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\007_Abstraction\002_Interfaces\Interfaces\obj\x86\Debug\Interfaces.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\007_Abstraction\002_Interfaces\Interfaces\bin\Debug\Interfaces.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\007_Abstraction\002_Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\007_Abstraction\002_Interfaces\Interfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\008_Abstraction\002_Interfaces\Interfaces\obj\x86\Debug\Interfaces.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\008_Abstraction\002_Interfaces\Interfaces\obj\x86\Debug\Interfaces.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\008_Abstraction\002_Interfaces\Interfaces\bin\Debug\Interfaces.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\008_Abstraction\002_Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\008_Abstraction\002_Interfaces\Interfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Debug\Interfaces.exe
+D:\-=!!!InWork!!!=-\Lessons\C#Essential\Lessons\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Debug\Interfaces.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Debug\Interfaces.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Debug\Interfaces.pdb
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\bin\Debug\Interfaces.exe
+D:\CBS_LESSONS\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Debug\Interfaces.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Debug\Interfaces.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces\obj\x86\Debug\ResolveAssemblyReference.cache

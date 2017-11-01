@@ -1,0 +1,5 @@
+D:\Interfaces\Interfaces6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Interfaces\Interfaces6\bin\Debug\Interfaces6.exe
+D:\Interfaces\Interfaces6\bin\Debug\Interfaces6.pdb
+D:\Interfaces\Interfaces6\obj\x86\Debug\Interfaces6.exe
+D:\Interfaces\Interfaces6\obj\x86\Debug\Interfaces6.pdb

@@ -1,0 +1,8 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces5\bin\Release\Interfaces5.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces5\bin\Release\Interfaces5.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces5\obj\x86\Release\Interfaces5.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces5\obj\x86\Release\Interfaces5.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces5\obj\x86\Release\Interfaces5.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces5\bin\Release\Interfaces5.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces5\bin\Release\Interfaces5.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\004_Abstraction\002_Interfaces\Interfaces5\obj\x86\Release\Interfaces5.exe

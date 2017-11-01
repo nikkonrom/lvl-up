@@ -1,0 +1,5 @@
+D:\Abstraction\Abstraction2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Abstraction\Abstraction2\bin\Debug\Abstraction2.exe
+D:\Abstraction\Abstraction2\bin\Debug\Abstraction2.pdb
+D:\Abstraction\Abstraction2\obj\x86\Debug\Abstraction2.exe
+D:\Abstraction\Abstraction2\obj\x86\Debug\Abstraction2.pdb
